@@ -1,0 +1,195 @@
+- artist: Kenji Yamamoto
+  title: Crash Orpheon
+  source: Metroid Prime
+  rg:
+    gain: -1.93 dB
+    peak: 0.880979
+    range: 4.87 dB
+- artist: Koji Kondo
+  title: Pakkun Flower's Lullaby
+  source: Super Mario 64
+  rg:
+    gain: 3.08 dB
+    peak: 0.602634
+    range: 5.20 dB
+- artist: Koji Kondo
+  title: Water Land
+  source: Super Mario 64
+  rg:
+    gain: -7.09 dB
+    peak: 0.987798
+    range: 7.35 dB
+- artist: Hajime Wakai
+  title: Pikmin
+  source: Pikmin
+  rg:
+    gain: -7.43 dB
+    peak: 0.779983
+    range: 12.02 dB
+- artist: Hajime Wakai
+  title: Forest Navel
+  source: Pikmin
+  rg:
+    gain: -3.32 dB
+    peak: 0.805495
+    range: 6.29 dB
+- artist: Kazumi Totaka
+  title: Yoshi on the Seabed
+  source: Yoshi's Story
+  rg:
+    gain: -6.57 dB
+    peak: 0.882808
+    range: 12.83 dB
+- artist: Koji Kondo
+  title: Fairy's Fountain
+  source: "The Legend of Zelda: Ocarina of Time"
+  rg:
+    gain: -4.36 dB
+    peak: 0.916545
+    range: 2.92 dB
+- artist: Koji Kondo
+  title: Princess Zelda's Theme
+  source: "The Legend of Zelda: Ocarina of Time"
+  rg:
+    gain: -8.55 dB
+    peak: 0.929387
+    range: 4.95 dB
+- artist: Koji Kondo
+  title: Zora Hall
+  source: "The Legend of Zelda: Majora's Mask"
+  rg:
+    gain: -4.26 dB
+    peak: 0.964342
+    range: 3.68 dB
+- artist: Koji Kondo
+  title: Temple of Time
+  source: "The Legend of Zelda: Ocarina of Time"
+  rg:
+    gain: -1.40 dB
+    peak: 0.836916
+    range: 8.94 dB
+- artist: Koji Kondo
+  title: Kakariko Village
+  source: "The Legend of Zelda: Ocarina of Time"
+  rg:
+    gain: -4.17 dB
+    peak: 0.875171
+    range: 7.12 dB
+- artist: Kenta Nagata
+  title: Aryll's Theme
+  source: "The Legend of Zelda: The Wind Waker"
+  rg:
+    gain: -1.56 dB
+    peak: 1.001804
+    range: 4.79 dB
+- artist: Kazumi Totaka
+  title: Victory Podium: 4th Place
+  source: Wave Race 64
+  rg:
+    gain: -5.29 dB
+    peak: 0.966085
+    range: 7.34 dB
+- artist: Kenta Nagata
+  title: Title
+  source: Animal Forest
+  rg:
+    gain: -2.31 dB
+    peak: 1.140435
+    range: 8.09 dB
+- artist: Kazumi Totaka
+  title: Meteoric Swarm
+  source: Animal Forest e+
+  rg:
+    gain: -1.89 dB
+    peak: 0.996435
+    range: 8.55 dB
+- artist: Shinobu Tanaka
+  title: Christmas
+  source: Animal Forest
+  rg:
+    gain: -4.52 dB
+    peak: 0.971307
+    range: 7.53 dB
+- artist: Kazumi Totaka
+  title: First Temple Visit of the New Year
+  source: Animal Forest e+
+  rg:
+    gain: -4.06 dB
+    peak: 0.994340
+    range: 4.26 dB
+- artist: Toru Minegishi
+  title: K.K. Hymn
+  source: Animal Forest
+  rg:
+    gain: -3.21 dB
+    peak: 0.665184
+    range: 8.47 dB
+- artist: Koji Kondo
+  title: Title
+  source: Shin Onigashima Part One
+  rg:
+    gain: -5.22 dB
+    peak: 0.710366
+    range: 5.83 dB
+- artist: Shinobu Tanaka
+  title: Mare Bay
+  source: Super Mario Sunshine
+  rg:
+    gain: -3.81 dB
+    peak: 1.000401
+    range: 7.67 dB
+- artist: Koji Kondo
+  title: Granny
+  source: "The Legend of Zelda: The Wind Waker"
+  rg:
+    gain: -2.55 dB
+    peak: 0.982804
+    range: 8.59 dB
+- artist: Koji Kondo
+  title: Music Box
+  source: Super Mario Bros. 3
+  rg:
+    gain: 2.64 dB
+    peak: 0.648412
+    range: 1.45 dB
+- artist: Kazumi Totaka
+  title: Main Theme
+  source: Kaeru no Tameni Kane wa Naru
+  subtitle: Live Version
+  rg:
+    gain: 0.51 dB
+    peak: 0.992259
+    range: 11.98 dB
+- artist:
+    - Hajime Wakai
+    - Kazumi Totaka
+    - Kenta Nagata
+  title: Aryll's Theme
+  source: "The Legend of Zelda: The Wind Waker"
+  subtitle: Live Version
+  rg:
+    gain: -4.00 dB
+    peak: 0.929441
+    range: 7.13 dB
+- artist:
+    - Toru Minegishi
+    - Shinobu Tanaka
+    - Kenta Nagata
+    - Kazumi Totaka
+  title: Title
+  source: Animal Forest
+  subtitle: Live Version
+  rg:
+    gain: -2.57 dB
+    peak: 1.000810
+    range: 7.87 dB
+- artist:
+    - Koji Kondo
+    - Asuka Ohta
+  title: Pakkun Flower's Lullaby
+  source: Super Mario 64
+  subtitle: Live Version
+  rg:
+    gain: -0.57 dB
+    peak: 0.989975
+    range: 10.69 dB

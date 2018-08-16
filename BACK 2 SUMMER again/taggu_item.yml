@@ -1,0 +1,70 @@
+- artist: Casual Killer
+  title: Fusion Device
+  rg:
+    gain: -12.06 dB
+    peak: 1.103044
+    range: 9.62 dB
+  bpm.start: ???-125
+- artist: Nhato
+  title: Time Circuits
+  rg:
+    gain: -11.51 dB
+    peak: 1.021450
+    range: 6.44 dB
+  bpm.start: 150
+- artist: KaSa
+  title: Give It Back To Me
+  rg:
+    gain: -10.01 dB
+    peak: 1.113544
+    range: 3.38 dB
+  bpm.start: 128
+- artist: MK
+  title: 88miles
+  rg:
+    gain: -10.14 dB
+    peak: 1.058503
+    range: 3.83 dB
+  bpm.start: 130
+- artist: Linjin
+  title: Desperado
+  rg:
+    gain: -11.79 dB
+    peak: 1.055710
+    range: 4.03 dB
+  bpm.start: 125
+- artist: Srav3R
+  title: Deep Hole
+  rg:
+    gain: -10.08 dB
+    peak: 1.035695
+    range: 11.68 dB
+  bpm.start: 90
+- artist: Massive New Krew
+  title: Neon Diver
+  rg:
+    gain: -10.70 dB
+    peak: 1.030336
+    range: 6.06 dB
+  bpm.start: 120
+- artist: Blacklolita
+  title: Midnight Tryst
+  rg:
+    gain: -11.44 dB
+    peak: 1.044976
+    range: 2.97 dB
+  bpm.start: 120
+- artist: Taishi
+  title: Various Stages
+  rg:
+    gain: -12.11 dB
+    peak: 1.033062
+    range: 9.13 dB
+  bpm.start: 120
+- artist: Musicarus
+  title: Sundown
+  rg:
+    gain: -9.31 dB
+    peak: 1.028335
+    range: 9.58 dB
+  bpm.start: 65

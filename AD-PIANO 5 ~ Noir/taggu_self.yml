@@ -1,0 +1,14 @@
+title:
+  series: AD:PIANO
+  volume: 5
+subtitle: Noir
+date: 2017-12-29
+catalog:
+  - DVSP-0189
+  - DVSP-0190
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -8.98 dB
+  range: 11.10 dB
+  peak: 1.165919

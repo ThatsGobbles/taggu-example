@@ -1,0 +1,62 @@
+- artist: Nhato
+  title: Dance Your Real
+  rg:
+    gain: -12.83 dB
+    peak: 1.483677
+    range: 5.42 dB
+- artist: KaSa
+  title: MudSlinging
+  rg:
+    gain: -10.19 dB
+    peak: 1.393455
+    range: 5.31 dB
+- artist: Megacycle
+  title: Hide Over
+  rg:
+    gain: -10.44 dB
+    peak: 1.207302
+    range: 7.47 dB
+- artist: Maya Akai
+  title: Gravity
+  rg:
+    gain: -11.96 dB
+    peak: 1.441948
+    range: 3.48 dB
+- artist: DJ Noriken
+  title: Alcyone
+  rg:
+    gain: -11.43 dB
+    peak: 1.255922
+    range: 5.10 dB
+- artist: Mad Child
+  title: To Be Is To Do
+  rg:
+    gain: -11.38 dB
+    peak: 1.296649
+    range: 3.64 dB
+- artist: Hommarju
+  title: Siva
+  rg:
+    gain: -11.68 dB
+    peak: 1.498091
+    range: 6.25 dB
+- artist: Anki
+  title: Neurotoxxin
+  rg:
+    gain: -11.22 dB
+    peak: 1.421869
+    range: 8.68 dB
+- artist: Tomoyuki Sakakida
+  title: Sorei
+  rg:
+    gain: -12.06 dB
+    peak: 1.391422
+    range: 5.15 dB
+- artist: C-Show
+  remix.artist: Mad Child
+  title: Panic Holic
+  subtitle: Mad Child Remix
+  rg:
+    gain: -12.04 dB
+    peak: 1.384256
+    range: 3.19 dB

@@ -1,0 +1,9 @@
+title: Monstercat Uncaged
+volume: 1
+date: 2017-05-12
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -11.30 dB
+  range: 8.52 dB
+  peak: 1.858862

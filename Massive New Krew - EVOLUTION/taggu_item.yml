@@ -1,0 +1,89 @@
+- title: Intro
+  rg:
+    gain: -9.68 dB
+    peak: 1.053910
+    range: 10.92 dB
+- feat: Yukacco
+  title: Take a Sunshine
+  rg:
+    gain: -11.07 dB
+    peak: 1.177205
+    range: 8.50 dB
+- artist:
+    - Camellia
+    - Massive New Krew
+  title: Octo-bug
+  subtitle: Massive New Krew Edit
+  rg:
+    gain: -12.16 dB
+    peak: 1.318800
+    range: 8.26 dB
+- title: Sunrise Colors
+  subtitle: 2017 Edit
+  rg:
+    gain: -11.77 dB
+    peak: 1.187439
+    range: 6.30 dB
+- remix.artist: Yuta Imai
+  title: Say Yeah!!
+  subtitle: Yuta Imai Remix
+  rg:
+    gain: -11.33 dB
+    peak: 1.070277
+    range: 6.69 dB
+- title: Today is the day
+  subtitle: Power Edit
+  rg:
+    gain: -12.32 dB
+    peak: 1.065210
+    range: 4.98 dB
+- title: Take Off !!
+  subtitle: Summer Edit
+  rg:
+    gain: -10.96 dB
+    peak: 1.246968
+    range: 8.47 dB
+- title: Future Massive Androids
+  subtitle: Psystyle EDIT
+  rg:
+    gain: -11.27 dB
+    peak: 1.215407
+    range: 7.83 dB
+- feat: Kanae Asaba
+  remix.artist: lapix
+  title: Shooting Star
+  subtitle: lapix Remix
+  rg:
+    gain: -12.13 dB
+    peak: 1.074847
+    range: 4.37 dB
+- title: The Enemy
+  rg:
+    gain: -13.06 dB
+    peak: 1.151376
+    range: 4.14 dB
+- title: Tiger Mosquito
+  subtitle: 2017 Edit
+  rg:
+    gain: -12.31 dB
+    peak: 1.052891
+    range: 5.36 dB
+- remix.artist: USAO
+  title: We are the Massive New Krew
+  subtitle: USAO Remix
+  rg:
+    gain: -11.71 dB
+    peak: 1.102616
+    range: 9.01 dB
+- feat: Yukacco
+  title: Goodbye
+  subtitle: 2017 Edit
+  rg:
+    gain: -11.43 dB
+    peak: 1.186213
+    range: 10.18 dB
+- title: OUTRO
+  rg:
+    gain: -3.72 dB
+    peak: 0.990858
+    range: 2.77 dB

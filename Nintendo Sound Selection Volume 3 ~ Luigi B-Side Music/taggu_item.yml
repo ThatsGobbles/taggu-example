@@ -1,0 +1,193 @@
+- artist: Kazumi Totaka
+  title: Luigi's Mansion
+  source: Luigi's Mansion
+  rg:
+    gain: -0.50 dB
+    peak: 0.785321
+    range: 6.79 dB
+- artist: Koji Kondo
+  title: Select Screen
+  source: Super Mario USA
+  rg:
+    gain: -0.42 dB
+    peak: 0.566118
+    range: 3.39 dB
+- artist: Ryoji Yoshitomi
+  title: Voices Being Carried on the Waves
+  source: Made in Wario
+  subtitle: Spring Chapter
+  rg:
+    gain: -3.19 dB
+    peak: 0.882411
+    range: 3.74 dB
+- artist: Masaru Tajima
+  title: We Love Love Mike
+  source: Made in Wario
+  rg:
+    gain: -4.04 dB
+    peak: 1.255537
+    range: 3.31 dB
+- artist: Asuka Ota
+  title: Flower Garden
+  source: Catch! Touch! Yoshi!
+  rg:
+    gain: -2.31 dB
+    peak: 0.880436
+    range: 12.15 dB
+- artist: Koji Kondo
+  title: Athletic
+  source: Super Mario Yoshi Island
+  rg:
+    gain: -1.42 dB
+    peak: 1.002285
+    range: 6.57 dB
+- artist: Kazumi Totaka
+  title: Pelican Yoshi Athletic
+  source: Yoshi Story
+  rg:
+    gain: -0.21 dB
+    peak: 0.847915
+    range: 6.01 dB
+- artist: Hirokazu Tanaka
+  title: CHILL
+  source: Dr. Mario
+  rg:
+    gain: 0.39 dB
+    peak: 0.861345
+    range: 5.16 dB
+- artist: Toru Minegishi
+  title: Po Pi Pa Pi
+  source: Talent Studio
+  rg:
+    gain: -2.28 dB
+    peak: 0.842643
+    range: 8.55 dB
+- artist: Shinobu Tanaka
+  title: Peach Beach
+  source: Mario Kart Double Dash!!
+  rg:
+    gain: -4.43 dB
+    peak: 1.003191
+    range: 1.13 dB
+- artist: Kenta Nagata
+  title: Rainbow Road
+  source: Mario Kart 64
+  rg:
+    gain: -2.63 dB
+    peak: 1.012897
+    range: 2.89 dB
+- artist: Kazumi Totaka
+  title: Tunnel Scene
+  source: X
+  rg:
+    gain: -2.45 dB
+    peak: 0.610525
+    range: 4.92 dB
+- artist: Hajime Hirasawa
+  title: Corneria
+  source: Star Fox
+  rg:
+    gain: -2.30 dB
+    peak: 0.934478
+    range: 1.94 dB
+- artist: Mahito Yokota
+  title: Battle For Storm Hill
+  source: Donkey Kong Jungle Beat
+  rg:
+    gain: -2.36 dB
+    peak: 0.884892
+    range: 6.02 dB
+- artist: Kazumi Totaka
+  title: Professor Oyama's Laboratory
+  source: Luigi's Mansion
+  rg:
+    gain: -0.33 dB
+    peak: 0.892593
+    range: 5.60 dB
+- artist: Shinobu Tanaka
+  title: sky & sea
+  source: Super Mario Sunshine
+  rg:
+    gain: -1.80 dB
+    peak: 0.922600
+    range: 4.62 dB
+- artist: Shinobu Tanaka
+  title: A HAPPY NEW YEAR!!
+  source: Animal Forest
+  rg:
+    gain: -3.48 dB
+    peak: 0.973152
+    range: 11.30 dB
+- artist: Kazumi Totaka
+  title: The Prince's Adventure
+  source: Kaeru no Tameni Kane wa Naru
+  rg:
+    gain: -0.63 dB
+    peak: 0.702548
+    range: 3.00 dB
+- artist: Akito Nakatsuka
+  title: Overworld BGM
+  source: Link's Adventure
+  rg:
+    gain: -2.70 dB
+    peak: 0.639518
+    range: 2.54 dB
+- artist: Koji Kondo
+  title: Alternate Overworld
+  source: "The Legend of Zelda: Triforce of the Gods"
+  rg:
+    gain: -1.70 dB
+    peak: 0.891219
+    range: 6.18 dB
+- artist: Koji Kondo
+  title: Lost Woods
+  source: "The Legend of Zelda: Ocarina of Time"
+  rg:
+    gain: -3.27 dB
+    peak: 0.948276
+    range: 3.96 dB
+- artist: Kenta Nagata
+  title: Dragon Island
+  source: "The Legend of Zelda: Takt of Wind"
+  rg:
+    gain: -2.32 dB
+    peak: 1.003583
+    range: 5.52 dB
+- artist: Koji Kondo
+  title: First Part Staff Roll
+  source: Shin Onigashima
+  rg:
+    gain: 1.97 dB
+    peak: 0.690207
+    range: 8.17 dB
+- artist: Hajime Wakai
+  title: flora and fauna
+  source: Pikmin 2
+  rg:
+    gain: -2.74 dB
+    peak: 0.943576
+    range: 8.34 dB
+- artist: Koji Kondo, Kenta Nagata, After Five
+  title: Epona's Song
+  source: "The Legend of Zelda: Ocarina of Time"
+  subtitle: Live Version
+  rg:
+    gain: -3.35 dB
+    peak: 0.911998
+    range: 6.73 dB
+- artist: Kazumi Totaka, Hajime Wakai, Takayuki Hashida
+  title: Luigi's Mansion
+  source: Luigi's Mansion
+  subtitle: Live Version
+  rg:
+    gain: -0.05 dB
+    peak: 1.000528
+    range: 14.72 dB
+- artist: Toru Minegishi, Akito Osanai, Hajime Wakai, Mitsuhiro Hikino, Kenta Nagata, Kazumi Totaka
+  title: K.K. Soul
+  source: Animal Forest
+  subtitle: Live Version
+  rg:
+    gain: -0.02 dB
+    peak: 0.841435
+    range: 8.38 dB

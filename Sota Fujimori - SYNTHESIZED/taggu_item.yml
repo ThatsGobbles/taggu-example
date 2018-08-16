@@ -1,0 +1,228 @@
+- title: SYNTHESIZED
+  rg:
+    gain: -10.00 dB
+    peak: 1.288397
+    range: 7.09 dB
+- artist: OKUYATOS
+  feat: Erica Ash
+  title: Kind Lady
+  subtitle: 2008 Extended Mix
+  rg:
+    gain: -10.88 dB
+    peak: 1.153974
+    range: 1.52 dB
+- artist: Supa Fova
+  feat: Jenny F.
+  title: I Need You
+  subtitle: Nu Platinum Mix
+  rg:
+    gain: -10.69 dB
+    peak: 1.145103
+    range: 2.70 dB
+- artist: Sota
+  feat: Brenda V.
+  title: Saturday Night Love
+  subtitle: Phunk Disco Mix
+  rg:
+    gain: -11.10 dB
+    peak: 1.278462
+    range: 7.02 dB
+- feat: yoshiko
+  title: together 4 ever
+  subtitle: Album Edit
+  rg:
+    gain: -11.30 dB
+    peak: 1.245274
+    range: 3.10 dB
+- feat: Anna Quinn
+  title: Look To The Sky
+  subtitle: Cyber True Color Extended
+  rg:
+    gain: -11.20 dB
+    peak: 1.160107
+    range: 3.08 dB
+- feat: yoshiko
+  title: Back Into The Light
+  subtitle: Feelings Won't Fade Vocal Mix
+  rg:
+    gain: -11.14 dB
+    peak: 1.108236
+    range: 5.38 dB
+- artist: SySF.
+  feat: Donna Burke
+  title: Star Gate Heaven
+  subtitle: Album New Mix
+  rg:
+    gain: -10.56 dB
+    peak: 1.119666
+    range: 4.01 dB
+- feat: cyborg AKEMI
+  title: The Hope Of Tomorrow
+  subtitle: Extended Mix
+  rg:
+    gain: -11.31 dB
+    peak: 1.171842
+    range: 1.42 dB
+- feat: cyborg AKEMI
+  title: Cyber Force
+  subtitle: Extended Mix
+  rg:
+    gain: -10.55 dB
+    peak: 1.271916
+    range: 6.55 dB
+- title: minimal synthesizer
+  rg:
+    gain: -9.78 dB
+    peak: 1.295924
+    range: 4.34 dB
+- artist: SySF.
+  title: Electrified
+  subtitle: Album Extended
+  rg:
+    gain: -10.58 dB
+    peak: 1.179229
+    range: 5.06 dB
+- title: i-revolution
+  subtitle: Album New Mix
+  rg:
+    gain: -10.88 dB
+    peak: 1.142175
+    range: 3.36 dB
+- title: ANDROMEDA II
+  subtitle: Extended Mix
+  rg:
+    gain: -10.73 dB
+    peak: 1.234734
+    range: 3.71 dB
+- feat: cyborg AKEMI
+  title: State Of The Art
+  subtitle: Album Extended
+  rg:
+    gain: -9.52 dB
+    peak: 1.119254
+    range: 6.87 dB
+- feat: AiMEE
+  title: Fly Above
+  subtitle: Album Extended
+  rg:
+    gain: -10.40 dB
+    peak: 1.116469
+    range: 6.28 dB
+- artist: SOTA
+  feat: Ebony Fay
+  remix.artist: 猫叉Master
+  remix.artist.translit: Nekomata Master
+  title: Do It Right
+  subtitle: ElecNekoTronika mix
+  rg:
+    gain: -9.52 dB
+    peak: 1.321606
+    range: 6.79 dB
+- feat: yoshiko
+  remix.artist: TOMOSUKE
+  title: together 4 ever
+  subtitle: NORTHERN TRANHOUSE MIX
+  rg:
+    gain: -9.71 dB
+    peak: 1.179895
+    range: 5.94 dB
+- remix.artist: good-cool
+  title: with you...
+  subtitle: X-Sota Mix
+  rg:
+    gain: -10.64 dB
+    peak: 1.217261
+    range: 2.39 dB
+- feat: yoshiko
+  remix.artist: dj TAKA
+  title: Back Into The Light
+  subtitle: Special ThanXXX RMX
+  rg:
+    gain: -10.58 dB
+    peak: 1.114781
+    range: 8.51 dB
+- artist: Sota
+  feat: cyborg AKEMI
+  remix.artist: SLAKE
+  title: Rise'n Beauty
+  subtitle: ELECTRO MIX
+  rg:
+    gain: -9.99 dB
+    peak: 1.214636
+    range: 4.29 dB
+- remix.artist: DAJI
+  title: Just a Little Smile
+  subtitle: DAJI MIX
+  rg:
+    gain: -10.45 dB
+    peak: 1.230922
+    range: 3.19 dB
+- feat: yoshiko
+  remix.artist: SADA
+  title: Look To The Sky
+  subtitle: SADA's J-Trance Vocal Mix
+  rg:
+    gain: -10.23 dB
+    peak: 1.127368
+    range: 3.76 dB
+- feat: cyborg AKEMI
+  remix.artist: DJ Yoshitaka
+  title: Cyber Force
+  subtitle: DJ Yoshitaka Remix
+  rg:
+    gain: -9.11 dB
+    peak: 1.179625
+    range: 9.86 dB
+- feat: Paula Terry
+  remix.artist: Shoichiro Hirata
+  title: Neo Contra
+  subtitle: Extra Bold Mix
+  rg:
+    gain: -9.34 dB
+    peak: 1.147379
+    range: 5.52 dB
+- remix.artist: L.E.D.
+  title: PSYCHE PLANET-GT
+  rg:
+    gain: -10.37 dB
+    peak: 1.090063
+    range: 2.66 dB
+- feat: yoshiko
+  remix.artist: wac
+  title: Spring Comes Around
+  subtitle: In Like a Lion
+  rg:
+    gain: -10.33 dB
+    peak: 1.346591
+    range: 19.21 dB
+- remix.artist: AKIRA YAMAOKA
+  title: Battle Train
+  subtitle: HOT SOTA MIX-B
+  rg:
+    gain: -9.91 dB
+    peak: 1.079182
+    range: 6.81 dB
+- feat: cyborg AKEMI
+  remix.artist: Ryu☆
+  title: The Hope Of Tomorrow
+  subtitle: Ryu☆Remix
+  rg:
+    gain: -11.28 dB
+    peak: 1.137900
+    range: 4.30 dB
+- feat: Runa
+  remix.artist: kors k
+  title: Run To You
+  subtitle: kors k mix
+  rg:
+    gain: -9.68 dB
+    peak: 1.171197
+    range: 10.09 dB
+- feat: yoshiko
+  remix.artist: AIKO
+  title: Rising Sun
+  subtitle: 100% Jupiter Eight Mix
+  rg:
+    gain: -8.03 dB
+    peak: 1.195278
+    range: 8.88 dB

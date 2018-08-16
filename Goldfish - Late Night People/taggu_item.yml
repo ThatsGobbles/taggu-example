@@ -1,0 +1,77 @@
+- feat: Soweto Kinch
+  title: Late Night People
+  rg:
+    gain: -9.64 dB
+    range: 3.24 dB
+    peak: 0.886157
+- title: Talk To Me
+  rg:
+    gain: -9.74 dB
+    range: 5.88 dB
+    peak: 0.888075
+- title: No One Has To Know
+  rg:
+    gain: -8.03 dB
+    range: 10.09 dB
+    peak: 0.885038
+- title: If I Could Find
+  rg:
+    gain: -9.62 dB
+    range: 6.10 dB
+    peak: 0.894909
+- title: Bad Luck And Trouble
+  rg:
+    gain: -8.14 dB
+    range: 6.01 dB
+    peak: 0.888702
+- title: Little Lies
+  rg:
+    gain: -9.75 dB
+    range: 3.25 dB
+    peak: 0.892713
+- feat: Sorana
+  title: Hold Your Kite
+  rg:
+    gain: -7.82 dB
+    range: 9.51 dB
+    peak: 0.887377
+- artist:
+    - Goldfish
+    - DIMMI
+  title: Just Me Now
+  rg:
+    gain: -8.42 dB
+    range: 5.54 dB
+    peak: 0.887916
+- artist:
+    - Goldfish
+    - Pontifexx
+  feat: Gustavo Bertoni
+  title: Rising Sun
+  rg:
+    gain: -8.78 dB
+    range: 6.73 dB
+    peak: 0.889556
+- title: These Two Oceans
+  rg:
+    gain: -7.63 dB
+    range: 7.82 dB
+    peak: 0.892951
+- feat: Diamond Thug
+  title: Deep Of The Night
+  rg:
+    gain: -8.76 dB
+    range: 4.86 dB
+    peak: 0.981808
+- title: Absolute Power
+  rg:
+    gain: -7.86 dB
+    range: 11.51 dB
+    peak: 0.887458
+- feat: Diamond Thug
+  title: Deep Of The Night
+  subtitle: Submerged Mix
+  rg:
+    gain: -8.68 dB
+    range: 3.73 dB
+    peak: 0.887953

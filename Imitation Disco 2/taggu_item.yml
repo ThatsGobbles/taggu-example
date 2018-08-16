@@ -1,0 +1,101 @@
+- title: BUBBLEGUM DISCO
+  artist: DOT96
+  rg:
+    gain: -11.44 dB
+    peak: 1.179890
+    range: 3.05 dB
+- title: Scorching Sunlight
+  artist: Yamajet
+  rg:
+    gain: -8.24 dB
+    peak: 1.144409
+    range: 4.40 dB
+- title: SPOT
+  artist:
+    - sweez
+    - Meine Meinung
+  rg:
+    gain: -8.55 dB
+    peak: 1.156981
+    range: 4.75 dB
+- title: Road Going
+  artist:
+    - 100-200
+    - tanigon
+  rg:
+    gain: -9.47 dB
+    peak: 1.094067
+    range: 4.00 dB
+- title: Boogie Dancer
+  artist: Musicarus
+  rg:
+    gain: -11.91 dB
+    peak: 1.205447
+    range: 2.31 dB
+- title: Monkey Bar
+  artist: tigerlily
+  rg:
+    gain: -8.48 dB
+    peak: 1.063439
+    range: 4.80 dB
+- title: 2:00 AM Eternal
+  artist:
+    - Takahiro Eguchi
+    - Tomohiko Togashi
+  rg:
+    gain: -9.44 dB
+    peak: 1.067460
+    range: 4.69 dB
+- title: Mechanical Groove
+  artist: Kenichi Chiba
+  rg:
+    gain: -7.15 dB
+    peak: 1.204336
+    range: 3.89 dB
+- title: Take Me Higher
+  subtitle: Original Mix
+  artist: Swingrooves
+  rg:
+    gain: -5.91 dB
+    peak: 1.129250
+    range: 5.00 dB
+- title: PHOENIX
+  part: 2
+  artist: roop
+  rg:
+    gain: -9.06 dB
+    peak: 1.091059
+    range: 4.83 dB
+- title: 夏のライゼクレーエ
+  artist: ヤマダニシェ
+  rg:
+    gain: -7.85 dB
+    peak: 1.140088
+    range: 5.20 dB
+- title: MÁV Start
+  artist: cybermiso
+  rg:
+    gain: -7.67 dB
+    peak: 1.139479
+    range: 7.16 dB
+- title: Move Along
+  artist: Ryo Nakamura
+  rg:
+    gain: -7.99 dB
+    peak: 1.131529
+    range: 5.59 dB
+- title: SUZAN
+  artist: Ras
+  rg:
+    gain: -7.95 dB
+    peak: 1.122574
+    range: 6.86 dB
+- title: サマー・メモリーズ
+  artist: stereoberry
+  feat:
+    ~: こゆき*
+    trans: Koyuki*
+  rg:
+    gain: -9.29 dB
+    peak: 1.079383
+    range: 2.54 dB

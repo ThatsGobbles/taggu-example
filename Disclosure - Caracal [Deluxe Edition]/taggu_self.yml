@@ -1,0 +1,10 @@
+title: Caracal
+edition: Deluxe
+artist: Disclosure
+date: 2015-09-25
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -9.49 dB
+  range: 8.45 dB
+  peak: 1.211778

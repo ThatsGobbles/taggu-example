@@ -1,0 +1,117 @@
+- title: Isometric
+  subtitle: Intro
+  rg:
+    gain: -11.03 dB
+    peak: 1.121062
+    range: 3.59 dB
+- feat: Kyan
+  title: You're On
+  rg:
+    gain: -11.70 dB
+    peak: 1.444225
+    range: 4.53 dB
+  bpm.start: 100
+- title: OK
+  rg:
+    gain: -12.08 dB
+    peak: 1.275527
+    range: 2.44 dB
+  bpm.start: 115
+- feat: Dan Smith
+  title: La Lune
+  rg:
+    gain: -12.39 dB
+    peak: 1.229260
+    range: 7.18 dB
+  bpm.start: 140
+- feat: Passion Pit
+  title: Pay No Mind
+  rg:
+    gain: -12.36 dB
+    peak: 1.352662
+    range: 3.33 dB
+  bpm.start: 112
+- title: Beings
+  rg:
+    gain: -11.41 dB
+    peak: 1.273108
+    range: 5.63 dB
+  bpm.start: 106
+- title: Imperium
+  rg:
+    gain: -12.96 dB
+    peak: 1.440740
+    range: 1.68 dB
+  bpm.start: 110
+- title: Zephyr
+  rg:
+    gain: -12.46 dB
+    peak: 1.410054
+    range: 5.50 dB
+  bpm.start: 126
+- feat: Mark Foster
+  title: Nonsense
+  rg:
+    gain: -11.30 dB
+    peak: 1.295934
+    range: 3.94 dB
+  bpm.start: 87
+- feat: Aquilo
+  title: Innocence
+  rg:
+    gain: -10.08 dB
+    peak: 1.198215
+    range: 5.16 dB
+  bpm.start: 88
+- title: Pixel Empire
+  disctotal: 2
+  tracknumber: 11
+  rg:
+    gain: -11.26 dB
+    peak: 1.410290
+    range: 8.18 dB
+  bpm.start: 100
+- title: Home
+  rg:
+    gain: -11.13 dB
+    peak: 1.184698
+    range: 8.13 dB
+  bpm.start: 90
+- title: Icarus
+  rg:
+    gain: -13.13 dB
+    peak: 1.594375
+    range: 3.93 dB
+  bpm.start: 126
+- feat: Nicholas Petricca
+  title: Finale
+  rg:
+    gain: -13.14 dB
+    peak: 1.386662
+    range: 5.22 dB
+  bpm.start: 92
+- title: The City
+  rg:
+    gain: -13.83 dB
+    peak: 1.405757
+    range: 5.42 dB
+  bpm.start: 125
+- title: Cut the Kid
+  rg:
+    gain: -12.92 dB
+    peak: 1.513303
+    range: 4.67 dB
+  bpm.start: 115
+- title: Technicolor
+  rg:
+    gain: -11.79 dB
+    peak: 1.494651
+    range: 6.83 dB
+  bpm.start: 127
+- feat: Vancouver Sleep Clinic
+  title: Only Way Out
+  rg:
+    gain: -8.70 dB
+    peak: 1.192372
+    range: 5.93 dB
+  bpm.start: 102

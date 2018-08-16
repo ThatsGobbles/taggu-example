@@ -1,0 +1,78 @@
+- title: Reverie
+  feat: King Deco
+  rg:
+    gain: -11.60 dB
+    peak: 1.202760
+    range: 8.93 dB
+- title: Fortress
+  feat: Joni Fatora
+  rg:
+    gain: -11.55 dB
+    peak: 1.164066
+    range: 8.67 dB
+- title: With You
+  feat: Quinn XCII
+  rg:
+    gain: -8.28 dB
+    peak: 0.978911
+    range: 8.08 dB
+- title: Sleepwalker
+  feat: Joni Fatora
+  rg:
+    gain: -11.52 dB
+    peak: 1.292738
+    range: 7.82 dB
+- title: It's All On U
+  feat: Liam O'Donnell
+  rg:
+    gain: -11.47 dB
+    peak: 1.180046
+    range: 10.37 dB
+- title: Spirals
+  artist:
+    - Illenium
+    - Sound Remedy
+  feat: King Deco
+  rg:
+    gain: -11.02 dB
+    peak: 1.196075
+    range: 4.98 dB
+- title: Without You
+  feat: SKYLR
+  rg:
+    gain: -9.95 dB
+    peak: 1.223982
+    range: 6.16 dB
+- title: Only One
+  feat: Nina Sung
+  rg:
+    gain: -11.50 dB
+    peak: 1.202544
+    range: 6.91 dB
+- title: I'll Be Your Reason
+  rg:
+    gain: -10.18 dB
+    peak: 1.259005
+    range: 5.78 dB
+- title: Afterlife
+  feat: Echos
+  rg:
+    gain: -11.25 dB
+    peak: 1.235472
+    range: 15.58 dB
+- title: Jester
+  artist:
+    - Illenium
+    - Chilled Velvet
+  rg:
+    gain: -10.91 dB
+    peak: 1.335129
+    range: 3.99 dB
+- title: Bring Forth The Pressure
+  artist:
+    - Illenium
+    - Dirt Monkey
+  rg:
+    gain: -12.10 dB
+    peak: 1.672422
+    range: 4.14 dB

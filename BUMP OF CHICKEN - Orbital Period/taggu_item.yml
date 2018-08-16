@@ -1,0 +1,90 @@
+- title: voyager
+  rg:
+    gain: -2.46 dB
+    peak: 0.945839
+    range: 15.34 dB
+- title: Hoshi no Tori
+  rg:
+    gain: 0.45 dB
+    peak: 0.527321
+    range: 2.66 dB
+- title: Mayday
+  rg:
+    gain: -11.30 dB
+    peak: 1.147630
+    range: 5.88 dB
+- title: Sainoujin Ouenka
+  rg:
+    gain: -11.71 dB
+    peak: 1.124448
+    range: 3.13 dB
+- title: Planetarium
+  rg:
+    gain: -9.51 dB
+    peak: 1.128014
+    range: 3.91 dB
+- title: supernova
+  rg:
+    gain: -9.31 dB
+    peak: 1.138348
+    range: 7.19 dB
+- title: Hammer Song to Itami no Tou
+  rg:
+    gain: -11.28 dB
+    peak: 1.148701
+    range: 2.73 dB
+- title: Jikuu Kakurenbo
+  rg:
+    gain: -11.41 dB
+    peak: 1.169991
+    range: 12.33 dB
+- title: Kasabutabutabu
+  rg:
+    gain: -9.48 dB
+    peak: 1.062573
+    range: 6.22 dB
+- title: Hana no Na
+  rg:
+    gain: -8.31 dB
+    peak: 1.123504
+    range: 13.15 dB
+- title: Hitorigoto
+  rg:
+    gain: -9.70 dB
+    peak: 1.107291
+    range: 7.00 dB
+- title: Amedama no Uta
+  rg:
+    gain: -9.32 dB
+    peak: 1.100450
+    range: 7.58 dB
+- title: Hoshi no Tori reprise
+  rg:
+    gain: 8.22 dB
+    peak: 0.202503
+    range: 3.30 dB
+- title: Karma
+  rg:
+    gain: -12.24 dB
+    peak: 1.112040
+    range: 5.99 dB
+- title: Arrows
+  rg:
+    gain: -6.25 dB
+    peak: 1.077341
+    range: 12.52 dB
+- title: Namida no Furusato
+  rg:
+    gain: -11.22 dB
+    peak: 1.070446
+    range: 6.18 dB
+- title: flyby
+  rg:
+    gain: -10.82 dB
+    peak: 1.096557
+    range: 20.32 dB
+- title: Believe
+  rg:
+    gain: -2.25 dB
+    peak: 1.088813
+    range: 12.57 dB

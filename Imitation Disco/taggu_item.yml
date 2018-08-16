@@ -1,0 +1,89 @@
+- title: FUNKYBABY
+  artist: Yamajet
+  rg:
+    gain: -8.16 dB
+    peak: 1.022870
+    range: 2.69 dB
+- title: In To My Life
+  artist: Kenichi Chiba
+  rg:
+    gain: -7.54 dB
+    peak: 1.027121
+    range: 3.13 dB
+- title: Vertigo Disco
+  artist: Musicarus
+  rg:
+    gain: -7.96 dB
+    peak: 1.034962
+    range: 5.48 dB
+- title: High Tech Jazz
+  artist: tigerlily
+  rg:
+    gain: -7.54 dB
+    peak: 1.024971
+    range: 5.08 dB
+- title: Twilight
+  part: 1
+  artist: ag
+  rg:
+    gain: -6.83 dB
+    peak: 1.027182
+    range: 5.01 dB
+- title: Twilight
+  part: 2
+  artist: ag
+  rg:
+    gain: -7.24 dB
+    peak: 1.027054
+    range: 4.20 dB
+- title: Special Violet
+  artist: Ras
+  rg:
+    gain: -8.10 dB
+    peak: 1.028712
+    range: 3.65 dB
+- title: FOLLOW ME
+  artist: Nankumo
+  rg:
+    gain: -8.24 dB
+    peak: 1.015956
+    range: 5.89 dB
+- title: D.I.S.C.O
+  artist: TAIJIN
+  rg:
+    gain: -8.01 dB
+    peak: 1.052258
+    range: 7.46 dB
+- title: buried festa
+  artist: cybermiso
+  rg:
+    gain: -7.62 dB
+    peak: 1.068803
+    range: 2.77 dB
+- title: Counting the Escape
+  artist:
+    - Takahiro Eguchi
+    - Tomohiko Togashi
+  rg:
+    gain: -8.74 dB
+    peak: 1.022580
+    range: 4.43 dB
+- title: Humming the Love
+  artist: chronoize
+  feat: Riutaso
+  rg:
+    gain: -7.18 dB
+    peak: 1.030722
+    range: 4.98 dB
+- title: ドンシンオールナイト
+  artist: drone_mania
+  rg:
+    gain: -9.30 dB
+    peak: 1.020242
+    range: 8.70 dB
+- title: 26,April
+  artist: cyber☆lily
+  rg:
+    gain: -7.17 dB
+    peak: 1.044113
+    range: 5.62 dB

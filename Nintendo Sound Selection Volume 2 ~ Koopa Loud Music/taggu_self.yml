@@ -1,0 +1,12 @@
+title:
+  series: Nintendo Sound Selection
+  volume: 2
+subtitle: Koopa Loud Music
+date: 2004-12-28
+catalog: CN-P018
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -2.75 dB
+  range: 6.34 dB
+  peak: 1.012649

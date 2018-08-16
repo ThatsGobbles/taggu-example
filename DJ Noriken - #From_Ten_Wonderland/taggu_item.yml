@@ -1,0 +1,81 @@
+- feat: yukacco
+  title: Enjoy This Time
+  rg:
+    gain: -12.67 dB
+    peak: 1.054985
+    range: 5.42 dB
+- feat: MC STONE
+  title: Challenger
+  rg:
+    gain: -12.40 dB
+    peak: 1.078710
+    range: 5.38 dB
+- title: Helpless
+  rg:
+    gain: -12.17 dB
+    peak: 1.062414
+    range: 5.86 dB
+- title: Wonderland
+  rg:
+    gain: -12.44 dB
+    peak: 1.040058
+    range: 7.59 dB
+- title: Turn Up
+  rg:
+    gain: -12.31 dB
+    peak: 1.091223
+    range: 4.39 dB
+- title: '#From_Dusk_Till_Dawn'
+  rg:
+    gain: -11.81 dB
+    peak: 1.046990
+    range: 7.99 dB
+- title: Scar Of The Night
+  rg:
+    gain: -12.54 dB
+    peak: 1.057437
+    range: 4.45 dB
+- title: Daylight Twilight
+  rg:
+    gain: -12.91 dB
+    peak: 1.135821
+    range: 4.16 dB
+- title: Dreamin' Feelin'
+  subtitle: Anthemic Update
+  rg:
+    gain: -13.27 dB
+    peak: 1.067235
+    range: 4.28 dB
+- title: Jingle
+  rg:
+    gain: -12.87 dB
+    peak: 1.081580
+    range: 4.96 dB
+- remix.artist: DJ Shimamura
+  title: Magic Rave Night
+  subtitle: DJ Shimamura Remix
+  rg:
+    gain: -12.52 dB
+    peak: 1.047295
+    range: 3.99 dB
+- remix.artist: P*Light
+  title: Broken Toybox
+  subtitle: P*Light Remix
+  rg:
+    gain: -13.05 dB
+    peak: 1.045880
+    range: 4.36 dB
+- remix.artist: XIO
+  title: I'll Be By Your Side
+  subtitle: XIO Remix
+  rg:
+    gain: -12.87 dB
+    peak: 1.049562
+    range: 4.45 dB
+- remix.artist: Massive New Krew
+  title: Longing Back
+  subtitle: Massive New Krew Remix
+  rg:
+    gain: -11.20 dB
+    peak: 1.035087
+    range: 10.06 dB

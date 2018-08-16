@@ -1,0 +1,76 @@
+- title: Giving
+  rg:
+    gain: -6.84 dB
+    peak: 1.034800
+    range: 2.72 dB
+- title: Cupboard Shaker
+  rg:
+    gain: -8.31 dB
+    peak: 1.051437
+    range: 3.28 dB
+- title: There You Are
+  rg:
+    gain: -7.17 dB
+    peak: 1.038053
+    range: 3.26 dB
+- title: Data & Picard
+  rg:
+    gain: -7.86 dB
+    peak: 1.015919
+    range: 3.43 dB
+- title: Watching You
+  rg:
+    gain: -7.75 dB
+    peak: 0.999218
+    range: 11.18 dB
+- title: Bom
+  rg:
+    gain: -4.45 dB
+    peak: 1.023512
+    range: 1.52 dB
+- title: Trumpular
+  rg:
+    gain: -5.55 dB
+    peak: 1.064175
+    range: 3.08 dB
+- title: Smack And Snack
+  rg:
+    gain: -8.14 dB
+    peak: 1.077869
+    range: 7.65 dB
+- title: Hoo Ba Ba Kanda
+  rg:
+    gain: -6.69 dB
+    peak: 1.025015
+    range: 4.25 dB
+- title: Jungle Dash
+  rg:
+    gain: -8.41 dB
+    peak: 1.055696
+    range: 3.50 dB
+- title: Dream Reaper
+  rg:
+    gain: -6.15 dB
+    peak: 1.060777
+    range: 10.48 dB
+- title: Don't Wish
+  rg:
+    gain: -6.45 dB
+    peak: 1.096809
+    range: 10.36 dB
+- title: Final Drive
+  rg:
+    gain: -6.05 dB
+    peak: 0.982079
+    range: 12.52 dB
+- title: Closure
+  rg:
+    gain: -3.95 dB
+    peak: 0.877566
+    range: 9.67 dB
+- title: In My Chair
+  subtitle: Milky Mix
+  rg:
+    gain: -5.95 dB
+    peak: 0.992471
+    range: 9.88 dB

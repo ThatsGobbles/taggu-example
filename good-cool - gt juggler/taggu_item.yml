@@ -1,0 +1,64 @@
+- title: Prelude
+  rg:
+    gain: -7.86 dB
+    peak: 1.039043
+    range: 6.82 dB
+- title: Street For Student
+  rg:
+    gain: -10.92 dB
+    peak: 1.134469
+    range: 2.21 dB
+- title: SAD-AND-MAD
+  feat: Pete Klassen
+  rg:
+    gain: -11.59 dB
+    peak: 1.078796
+    range: 1.08 dB
+- title: Guilty Motions
+  rg:
+    gain: -11.58 dB
+    peak: 1.147702
+    range: 0.67 dB
+- title: Over The Night
+  feat: Pete Klassen
+  rg:
+    gain: -11.37 dB
+    peak: 1.133824
+    range: 1.13 dB
+- title: Walnuts
+  rg:
+    gain: -10.06 dB
+    peak: 1.072347
+    range: 1.45 dB
+- title: Longing for Mars
+  rg:
+    gain: -9.33 dB
+    peak: 1.194088
+    range: 2.75 dB
+- title: Sunrise
+  feat: Pete Klassen
+  rg:
+    gain: -11.34 dB
+    peak: 1.193718
+    range: 0.81 dB
+- title: Lost In The Forest
+  rg:
+    gain: -10.42 dB
+    peak: 1.114839
+    range: 7.64 dB
+- title: Feed The Hunger
+  feat: Pete Klassen
+  rg:
+    gain: -11.38 dB
+    peak: 1.116514
+    range: 0.95 dB
+- title: Drift & Exhaust
+  rg:
+    gain: -11.17 dB
+    peak: 1.122216
+    range: 0.85 dB
+- title: Postlude
+  rg:
+    gain: -7.83 dB
+    peak: 1.034452
+    range: 11.13 dB

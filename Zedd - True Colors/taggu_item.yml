@@ -1,0 +1,81 @@
+- feat: Bahari
+  audiohash: 34d8b589dd3896b98f67e96ca846015d91b179d4777c5ce52a9db02fd6719476
+  title: Addicted To A Memory
+  rg:
+    gain: -10.74 dB
+    peak: 1.083165
+    range: 8.12 dB
+- feat: Selena Gomez
+  audiohash: 4df67671c673952e548a60468603ee1bb0711ad15df31e41ad1576666ce40a5e
+  title: I Want You To Know
+  rg:
+    gain: -11.88 dB
+    peak: 1.085659
+    range: 5.55 dB
+- feat: Jon Bellion
+  audiohash: f59a15f0516cc0d08ff9e606699a0f06f30dedccc81ace54b06c265a2b7381e2
+  title: Beautiful Now
+  rg:
+    gain: -11.30 dB
+    peak: 1.100243
+    range: 6.64 dB
+- feat:
+    - Logic
+    - X Ambassadors
+  audiohash: 0431f2c77216747723ba9b3fbeb6afb9b3dba3eab58e40486d86eea38177ed7b
+  title: Transmission
+  rg:
+    gain: -11.56 dB
+    peak: 1.094852
+    range: 7.68 dB
+- feat: Jacob Luttrell
+  audiohash: 429ea7572c7ae6a8be7892e4220e0fe6a51d827962d33eb253c64311e2a2484e
+  title: Done With Love
+  rg:
+    gain: -10.09 dB
+    peak: 1.109767
+    range: 9.87 dB
+- feat: Tim James
+  audiohash: d214119a2ebc1f81cf25b5fc79bc35caca4b43abad50b525709975775e2b7466
+  title: True Colors
+  rg:
+    gain: -10.57 dB
+    peak: 1.049605
+    range: 9.37 dB
+- feat: Julia Michaels
+  audiohash: 715cecfb253687d597c381ab1cec6e10cc41fb49d07741ff6af40d06e369537a
+  title: Straight Into The Fire
+  rg:
+    gain: -10.28 dB
+    peak: 1.079510
+    range: 6.95 dB
+- feat: Troye Sivan
+  audiohash: 048f693180b6152119fe19803dcb668edbdbdd22724eee051ed122357b80fac9
+  title: Papercut
+  rg:
+    gain: -10.74 dB
+    peak: 1.155267
+    range: 10.12 dB
+- artist:
+    - Zedd
+    - Botnek
+  audiohash: 5a21361ef7ee242cc3f119b6bc91a15757d7de3054fa5afd4605eaf7a95293bd
+  title: Bumble Bee
+  rg:
+    gain: -10.86 dB
+    peak: 1.167634
+    range: 5.72 dB
+- feat: Julia Michaels
+  audiohash: 900d9b69bce4a6ded61c4fad96089a5e344450f3e465a50fb59f9a5ec5c12865
+  title: Daisy
+  rg:
+    gain: -10.03 dB
+    peak: 1.103486
+    range: 10.56 dB
+- feat: Echosmith
+  audiohash: a6568f8ddc26aa2b1f266cc4bf2d733dfbb1634943c1b4ad0ab20395eef6851a
+  title: Illusion
+  rg:
+    gain: -9.25 dB
+    peak: 1.148054
+    range: 8.07 dB

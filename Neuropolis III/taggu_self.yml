@@ -1,0 +1,9 @@
+title: Neuropolis
+volume: 3
+date: 2017-08-11
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -10.81 dB
+  range: 5.63 dB
+  peak: 1.460938

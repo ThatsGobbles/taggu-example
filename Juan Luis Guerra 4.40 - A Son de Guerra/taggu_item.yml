@@ -1,0 +1,57 @@
+- title: No Aparecen
+  rg:
+    gain: -8.16 dB
+    peak: 1.150861
+    range: 2.86 dB
+- title: La Guagua
+  rg:
+    gain: -8.08 dB
+    peak: 1.052757
+    range: 3.52 dB
+- title: Mi Bendición
+  rg:
+    gain: -7.36 dB
+    peak: 0.989184
+    range: 5.18 dB
+- feat: Juanes
+  title: La Calle
+  rg:
+    gain: -9.29 dB
+    peak: 1.007358
+    range: 3.79 dB
+- title: Bachata en Fukuoka
+  rg:
+    gain: -7.55 dB
+    peak: 1.051141
+    range: 3.66 dB
+- title: Apaga y Vámonos
+  rg:
+    gain: -8.36 dB
+    peak: 1.026999
+    range: 3.59 dB
+- title: Son al Rey
+  rg:
+    gain: -7.16 dB
+    peak: 1.018186
+    range: 3.28 dB
+- title: Cayo Arena
+  rg:
+    gain: -8.34 dB
+    peak: 1.112904
+    range: 3.53 dB
+- title: Arregla los Papeles
+  rg:
+    gain: -8.30 dB
+    peak: 1.030121
+    range: 3.61 dB
+- feat: Chris Botti
+  title: Lola's Mambo
+  rg:
+    gain: -8.61 dB
+    peak: 1.045792
+    range: 5.33 dB
+- title: Caribbean Blues
+  rg:
+    gain: -8.66 dB
+    peak: 1.100704
+    range: 3.94 dB

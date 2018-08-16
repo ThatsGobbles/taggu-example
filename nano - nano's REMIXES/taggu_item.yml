@@ -1,0 +1,47 @@
+- title: Freedom Is Yours
+  rg:
+    gain: -13.55 dB
+    peak: 1.189386
+    range: 7.13 dB
+- remix.artist: emon
+  title: Rock on.
+  subtitle: emon Remix
+  rg:
+    gain: -12.81 dB
+    peak: 1.189846
+    range: 2.78 dB
+- remix.artist: Novoiski
+  title: SAVIOR OF SONG
+  subtitle: Novoiski Remix
+  rg:
+    gain: -13.75 dB
+    peak: 1.053105
+    range: 2.61 dB
+- remix.artist: banvox
+  title: Born to be
+  subtitle: banvox Remix
+  rg:
+    gain: -13.29 dB
+    peak: 1.271100
+    range: 3.23 dB
+- remix.artist: Hige Driver
+  title: No pain, No game
+  subtitle: Hige Driver Remix
+  rg:
+    gain: -13.82 dB
+    peak: 1.114233
+    range: 3.58 dB
+- remix.artist: Novoiski
+  title: SABLE
+  subtitle: Novoiski Remix
+  rg:
+    gain: -13.54 dB
+    peak: 1.106750
+    range: 6.05 dB
+- remix.artist: DJ'TEKINA//SOMETHING
+  title: Nevereverland
+  subtitle: DJ'TEKINA//SOMETHING Remix
+  rg:
+    gain: -12.92 dB
+    peak: 1.144205
+    range: 5.25 dB

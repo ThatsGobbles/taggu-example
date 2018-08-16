@@ -1,0 +1,82 @@
+- title: Needed You
+  feat: Dia Frampton
+  rg:
+    gain: -11.94 dB
+    peak: 1.260897
+    range: 11.12 dB
+- title: Crawl Outta Love
+  feat: Annika Wells
+  rg:
+    gain: -12.38 dB
+    peak: 1.393839
+    range: 7.81 dB
+- title: No Time Like Now
+  rg:
+    gain: -10.93 dB
+    peak: 1.269494
+    range: 3.66 dB
+- title: Free Fall
+  feat: RUNN
+  rg:
+    gain: -11.71 dB
+    peak: 1.140147
+    range: 7.76 dB
+- title: Where'd U Go
+  artist:
+    - Illenium
+    - Said The Sky
+  rg:
+    gain: -12.02 dB
+    peak: 1.463017
+    range: 9.44 dB
+- title: Fractures
+  feat: Nevve
+  rg:
+    gain: -12.69 dB
+    peak: 1.241684
+    range: 5.28 dB
+- title: Leaving
+  rg:
+    gain: -12.50 dB
+    peak: 1.236854
+    range: 7.71 dB
+- title: Lost
+  feat: Emilie Brandt
+  rg:
+    gain: -10.59 dB
+    peak: 1.197038
+    range: 9.05 dB
+- title: Sound of Walking Away
+  artist:
+    - Illenium
+    - Kerli
+  rg:
+    gain: -11.86 dB
+    peak: 1.221878
+    range: 9.64 dB
+- title: Taking Me Higher
+  rg:
+    gain: -10.52 dB
+    peak: 1.152135
+    range: 5.84 dB
+- title: Feel Good
+  artist:
+    - Illenium
+    - Gryffin
+  feat: Daya
+  rg:
+    gain: -10.33 dB
+    peak: 1.102255
+    range: 8.88 dB
+- title: Beautiful Creatures
+  feat: MAX
+  rg:
+    gain: -12.43 dB
+    peak: 1.221519
+    range: 7.39 dB
+- title: Let You Go
+  feat: Ember Island
+  rg:
+    gain: -11.00 dB
+    peak: 1.264332
+    range: 9.89 dB

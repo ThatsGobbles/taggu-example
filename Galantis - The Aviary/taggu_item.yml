@@ -1,0 +1,63 @@
+- title: True Feeling
+  rg:
+    gain: -10.59 dB
+    peak: 1.321852
+    range: 9.80 dB
+- title: Hey Alligator
+  rg:
+    gain: -10.92 dB
+    peak: 1.119305
+    range: 8.09 dB
+- title: Girls On Boys
+  rg:
+    gain: -11.70 dB
+    range: 9.57 dB
+    peak: 1.399689
+- feat: Poo Bear
+  title: Salvage
+  subtitle: Up All Night
+  rg:
+    gain: -11.89 dB
+    peak: 1.286439
+    range: 5.68 dB
+- title: Tell Me You Love Me
+  rg:
+    gain: -11.91 dB
+    peak: 1.253681
+    range: 5.45 dB
+- title: Hello
+  rg:
+    gain: -10.67 dB
+    peak: 1.217832
+    range: 6.09 dB
+- title: Hunter
+  rg:
+    gain: -10.05 dB
+    peak: 1.226371
+    range: 2.71 dB
+- feat: Wrabel
+  title: Written In The Scars
+  rg:
+    gain: -10.32 dB
+    peak: 1.208279
+    range: 6.18 dB
+- title: Call Me Home
+  rg:
+    gain: -9.83 dB
+    peak: 1.130002
+    range: 7.64 dB
+- title: Love On Me
+  rg:
+    gain: -12.49 dB
+    peak: 1.252891
+    range: 4.78 dB
+- title: Pillow Fight
+  rg:
+    gain: -11.73 dB
+    peak: 1.261344
+    range: 6.55 dB
+- title: No Money
+  rg:
+    gain: -11.00 dB
+    peak: 1.164399
+    range: 7.27 dB

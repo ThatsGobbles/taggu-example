@@ -1,0 +1,70 @@
+- title: Foolish Hero
+  subtitle: Extended
+  rg:
+    gain: -12.92 dB
+    peak: 1.048303
+    range: 3.40 dB
+- feat: Luschel
+  title: Beyond the Limits
+  rg:
+    gain: -12.25 dB
+    peak: 1.060418
+    range: 5.34 dB
+- title: HiTECH NINJA
+  rg:
+    gain: -11.73 dB
+    peak: 1.031080
+    range: 5.13 dB
+- title: Don't Hold Back
+  rg:
+    gain: -12.41 dB
+    peak: 1.028681
+    range: 6.75 dB
+- feat: Luschel
+  title: Crossroad
+  rg:
+    gain: -12.99 dB
+    peak: 1.067668
+    range: 20.30 dB
+- feat: Luschel
+  remix.artist: kors k
+  title: Beyond the Limits
+  subtitle: kors k Remix
+  rg:
+    gain: -12.22 dB
+    peak: 1.092186
+    range: 4.54 dB
+- title: No Problem
+  rg:
+    gain: -13.13 dB
+    peak: 1.019218
+    range: 4.40 dB
+- title: Midnight Doll
+  rg:
+    gain: -11.18 dB
+    peak: 1.038011
+    range: 8.05 dB
+- artist:
+    - Camellia
+    - lapix
+  title: Dead Music
+  rg:
+    gain: -12.15 dB
+    peak: 1.062696
+    range: 6.70 dB
+- title: Ultra Funktion
+  rg:
+    gain: -12.70 dB
+    peak: 1.062171
+    range: 3.85 dB
+- title: Of the Behind
+  rg:
+    gain: -12.05 dB
+    peak: 1.048405
+    range: 4.89 dB
+- title: Paradoxy
+  subtitle: Extended
+  rg:
+    gain: -12.63 dB
+    peak: 1.108830
+    range: 3.42 dB

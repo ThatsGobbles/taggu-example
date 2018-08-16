@@ -1,0 +1,163 @@
+- artist: Taro Bando
+  title: Rainbow Road
+  source: F-Zero X Expansion Kit
+  rg:
+    gain: -3.78 dB
+    peak: 1.000626
+    range: 3.71 dB
+- artist: Taro Bando
+  title: Rendezvous Of Ghost
+  source: F-Zero X Expansion Kit
+  rg:
+    gain: -4.21 dB
+    peak: 0.897083
+    range: 4.27 dB
+- artist: Taro Bando
+  title: Japon
+  source: F-Zero X Expansion Kit
+  rg:
+    gain: -1.68 dB
+    peak: 0.962187
+    range: 5.16 dB
+- artist: Taro Bando
+  title: Car Select
+  source: F-Zero X
+  rg:
+    gain: -1.50 dB
+    peak: 0.851056
+    range: 1.35 dB
+- artist: Yumiko Kanki
+  title: Fire Field
+  source: F-Zero
+  rg:
+    gain: -2.61 dB
+    peak: 0.923281
+    range: 1.69 dB
+- artist: Ryoji Yoshitomi
+  title: Secret Waste Processing Plant
+  source: Wario Land 4
+  rg:
+    gain: -2.81 dB
+    peak: 0.713456
+    range: 7.65 dB
+- artist: Ryoji Yoshitomi
+  title: Wario's Whatever Company
+  source: "WarioWare, Inc: Mega Microgame$"
+  rg:
+    gain: -1.70 dB
+    peak: 0.601431
+    range: 2.58 dB
+- artist: Koji Kondo
+  title: Oni's Time
+  source: Shin Onigashima
+  rg:
+    gain: -0.61 dB
+    peak: 0.579294
+    range: 2.09 dB
+- artist: Koji Kondo
+  title: Koopa
+  source: "Super Mario World 2: Yoshi's Island"
+  rg:
+    gain: -2.02 dB
+    peak: 0.585433
+    range: 6.39 dB
+- artist: Kazumi Totaka
+  title: Port Pirates
+  source: Wave Race 64
+  rg:
+    gain: -0.93 dB
+    peak: 0.810354
+    range: 7.61 dB
+- artist: Kazumi Totaka
+  title: Marine Fortress
+  source: Wave Race 64
+  rg:
+    gain: -0.97 dB
+    peak: 0.996327
+    range: 7.33 dB
+- artist: Kazumi Totaka
+  title: "Victory Podium: 2nd Place"
+  source: Wave Race 64
+  rg:
+    gain: -0.39 dB
+    peak: 0.898285
+    range: 2.11 dB
+- artist: Toru Minegishi
+  title: K.K. Metal
+  source: Animal Forest e+
+  rg:
+    gain: -0.85 dB
+    peak: 0.647522
+    range: 4.63 dB
+- artist: Koji Kondo
+  title: Koopa
+  source: Super Mario World
+  rg:
+    gain: -1.54 dB
+    peak: 1.012649
+    range: 3.14 dB
+- artist: Soyo Oka
+  title: Castle
+  source: Super Mario Kart
+  rg:
+    gain: -0.86 dB
+    peak: 0.713647
+    range: 4.13 dB
+- artist: Minako Hamano
+  title: Koopa Castle Course
+  source: Mario Kart Advance
+  rg:
+    gain: -0.79 dB
+    peak: 0.939727
+    range: 2.64 dB
+- artist: Koji Kondo
+  title: Fortress Boss
+  source: Super Mario Bros. 3
+  rg:
+    gain: 1.44 dB
+    peak: 0.667940
+    range: 2.22 dB
+- artist: Kazumi Totaka
+  title: Teresa Release
+  source: Luigi's Mansion
+  rg:
+    gain: -0.33 dB
+    peak: 0.721150
+    range: 11.85 dB
+- artist: Kenta Nagata
+  title: Vacant Lives
+  source: 1080° Snowboarding
+  rg:
+    gain: -2.59 dB
+    peak: 0.847407
+    range: 2.71 dB
+- artist: Kenta Nagata
+  title: Golden Forest
+  source: 1080° Snowboarding
+  rg:
+    gain: -2.90 dB
+    peak: 0.875868
+    range: 1.10 dB
+- artist: Kenta Nagata
+  title: Grasp Power!
+  source: 1080° Snowboarding
+  rg:
+    gain: -3.87 dB
+    peak: 0.881433
+    range: 2.94 dB
+- artist: Koji Kondo, Kazumi Totaka, Mitsuhiro Hikino, Kenta Nagata
+  title: Fortress Boss
+  source: Super Mario Bros. 3
+  subtitle: Live Version
+  rg:
+    gain: -3.32 dB
+    peak: 1.001795
+    range: 5.48 dB
+- artist: Koji Kondo, Kenji Yamamoto, Mitsuhiro Hikino, Toru Minegishi, Kenta Nagata
+  title: Oni's Time
+  source: Shin Onigashima
+  subtitle: Live Version
+  rg:
+    gain: -5.02 dB
+    peak: 0.866955
+    range: 8.10 dB

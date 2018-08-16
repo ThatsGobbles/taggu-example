@@ -1,0 +1,158 @@
+- title: NEO GRAVITY
+  subtitle: Extended
+  rg:
+    gain: -13.29 dB
+    peak: 1.119721
+    range: 2.38 dB
+- title: Core Signal
+  feat: Kanata.N
+  rg:
+    gain: -12.39 dB
+    peak: 1.020143
+    range: 4.84 dB
+- title: Morning Glow
+  feat: kradness
+  rg:
+    gain: -13.01 dB
+    peak: 1.069542
+    range: 6.83 dB
+- title: Hi-TECHOLIC
+  artist:
+    - C-Show
+    - lapix
+  rg:
+    gain: -12.11 dB
+    peak: 1.057868
+    range: 5.12 dB
+- title: Backflow
+  subtitle: Extended
+  rg:
+    gain: -12.97 dB
+    peak: 1.109224
+    range: 3.01 dB
+- title: Vital
+  rg:
+    gain: -11.67 dB
+    peak: 1.056248
+    range: 11.70 dB
+- title: Concept of Reality
+  feat: Renko
+  rg:
+    gain: -12.94 dB
+    peak: 1.071311
+    range: 5.74 dB
+- title: NEXT LEVEL
+  artist:
+    - sky_delta
+    - lapix
+  rg:
+    gain: -12.84 dB
+    peak: 1.071247
+    range: 4.03 dB
+- title: YOLO
+  feat: Numb'n'dub
+  rg:
+    gain: -12.53 dB
+    peak: 1.009530
+    range: 5.79 dB
+- title: Lose Control
+  subtitle: lapix Remix
+  artist: Massive New Krew
+  remix.artist: lapix
+  rg:
+    gain: -11.58 dB
+    peak: 1.097240
+    range: 4.38 dB
+- title: Blue Love
+  feat: YUC'e
+  rg:
+    gain: -13.27 dB
+    peak: 1.046114
+    range: 6.06 dB
+- title: Good Time
+  feat: Mayumi Morinaga
+  rg:
+    gain: -13.24 dB
+    peak: 1.057623
+    range: 2.29 dB
+- title: Inner Spirit
+  subtitle: Maozon Remix
+  remix.artist: Maozon
+  rg:
+    gain: -11.80 dB
+    peak: 1.033889
+    range: 5.06 dB
+- title: Discloze
+  subtitle: Hommarju Remix
+  remix.artist: Hommarju
+  rg:
+    gain: -12.51 dB
+    peak: 1.053262
+    range: 5.72 dB
+- title: NEO GRAVITY
+  subtitle: BlackYooh vs. siromaru Remix
+  remix.artist:
+    - BlackY
+    - siromaru
+  rg:
+    gain: -13.46 dB
+    peak: 1.041329
+    range: 3.62 dB
+- title: Live Nor Die
+  subtitle: Nhato Remix
+  feat: Kanae Asaba
+  remix.artist: Nhato
+  rg:
+    gain: -12.18 dB
+    peak: 1.066363
+    range: 4.51 dB
+- title: Celebrate
+  subtitle: Snail's House Remix
+  remix.artist: Snail's House
+  rg:
+    gain: -10.91 dB
+    peak: 1.071131
+    range: 12.90 dB
+- title: Go Crazy
+  subtitle: JAKAZiD Remix
+  feat:
+    - Luschel
+    - Kent Alexander
+  remix.artist: JAKAZiD
+  rg:
+    gain: -12.27 dB
+    peak: 1.080954
+    range: 2.29 dB
+- title: Around The World
+  subtitle: Dirty Androids Remix
+  remix.artist: Dirty Androids
+  rg:
+    gain: -10.25 dB
+    peak: 0.996936
+    range: 6.08 dB
+- title: Survivor
+  subtitle: Srav3R Remix
+  feat: Kent Alexander
+  remix.artist: Srav3R
+  rg:
+    gain: -12.71 dB
+    peak: 1.041609
+    range: 4.25 dB
+- title: CLIMAX
+  subtitle: Dustvoxx Remix
+  artist:
+    - lapix
+    - USAO
+  remix.artist: Dustvoxx
+  rg:
+    gain: -12.40 dB
+    peak: 1.056938
+    range: 3.77 dB
+- title: Beyond The Limits
+  subtitle: Massive New Krew Remix
+  feat: Luschel
+  remix.artist: Massive New Krew
+  rg:
+    gain: -11.56 dB
+    peak: 1.036494
+    range: 6.26 dB

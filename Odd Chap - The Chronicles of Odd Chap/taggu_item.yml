@@ -1,0 +1,82 @@
+- artist: Odd Chap
+  title: Fanfare
+  subtitle: Prelude
+  rg:
+    gain: -6.53 dB
+    peak: 1.001512
+    range: 3.06 dB
+- artist: Odd Chap
+  title: Sound 101
+  rg:
+    gain: -10.33 dB
+    peak: 0.978860
+    range: 6.33 dB
+- artist: Odd Chap
+  title: The Walking Moustache
+  rg:
+    gain: -10.30 dB
+    peak: 0.977649
+    range: 3.78 dB
+- artist: Odd Chap
+  title: Hollywood
+  rg:
+    gain: -8.78 dB
+    peak: 0.996912
+    range: 9.50 dB
+- artist: Odd Chap
+  title: Maths
+  rg:
+    gain: -10.11 dB
+    peak: 0.999075
+    range: 6.64 dB
+- artist: Odd Chap
+  title: Take Me Out Tonight
+  rg:
+    gain: -10.17 dB
+    peak: 0.983992
+    range: 2.94 dB
+- artist: Odd Chap
+  title: On Your Feet
+  rg:
+    gain: -8.73 dB
+    peak: 1.016292
+    range: 6.14 dB
+- artist: Odd Chap
+  title: Time Again
+  rg:
+    gain: -9.50 dB
+    peak: 0.996401
+    range: 8.89 dB
+- artist:
+    - Odd Chap
+    - Moogul the Sly
+  title: Public Enemy, Pt.1
+  rg:
+    gain: -9.96 dB
+    peak: 0.992200
+    range: 7.01 dB
+- artist: Odd Chap
+  title: Chappies Tune
+  rg:
+    gain: -9.77 dB
+    peak: 0.990914
+    range: 8.11 dB
+- artist: Odd Chap
+  title: Big Words
+  rg:
+    gain: -8.65 dB
+    peak: 0.980280
+    range: 12.70 dB
+- artist: Odd Chap
+  title: Easy
+  rg:
+    gain: -9.35 dB
+    peak: 0.989536
+    range: 14.26 dB
+- artist: Odd Chap
+  title: Sound 102
+  subtitle: Extended
+  rg:
+    gain: -9.74 dB
+    peak: 1.032995
+    range: 7.53 dB

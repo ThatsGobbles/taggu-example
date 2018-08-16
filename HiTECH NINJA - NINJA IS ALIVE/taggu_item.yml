@@ -1,0 +1,84 @@
+- title: INTRO
+  rg:
+    gain: -11.60 dB
+    peak: 1.007944
+    range: 7.08 dB
+- title: HYPER ACTIVE
+  subtitle: EXTENDED
+  rg:
+    gain: -13.27 dB
+    peak: 1.034402
+    range: 2.26 dB
+- title: NINJA IS ALIVE
+  subtitle: BOMB BEATS
+  rg:
+    gain: -11.38 dB
+    peak: 1.067681
+    range: 4.02 dB
+- artist: RAS
+  remix.artist: HiTECH NINJA
+  title: PRAYSTATION
+  subtitle: HiTECH NINJA REMIX
+  rg:
+    gain: -12.34 dB
+    peak: 1.033362
+    range: 5.20 dB
+- title: 完全攻略術
+  rg:
+    gain: -12.26 dB
+    peak: 1.018653
+    range: 4.49 dB
+- artist:
+    - Shandy Kubota
+    - HiTECH NINJA
+  title: 改
+  rg:
+    gain: -12.31 dB
+    peak: 1.038069
+    range: 3.06 dB
+- title: DIVINE
+  rg:
+    gain: -11.39 dB
+    peak: 1.054779
+    range: 8.81 dB
+- title: INTERLUDE
+  rg:
+    gain: -10.86 dB
+    peak: 1.015481
+    range: 9.60 dB
+- remix.artist: t+pazolite
+  title: HYPER ACTIVE
+  subtitle: t+pazolite Remix
+  rg:
+    gain: -12.99 dB
+    peak: 1.055546
+    range: 5.79 dB
+- artist:
+    - Cranky
+    - HiTECH NINJA
+  title: HIT! HIT! HIT!
+  rg:
+    gain: -12.97 dB
+    peak: 1.075001
+    range: 5.55 dB
+- title: VENETIAN ZAP
+  rg:
+    gain: -11.72 dB
+    peak: 1.047510
+    range: 5.52 dB
+- artist: WAIKURO
+  title: BURST STREAM
+  rg:
+    gain: -13.32 dB
+    peak: 1.041700
+    range: 3.92 dB
+- title: WHO AM I?
+  rg:
+    gain: -11.08 dB
+    peak: 1.069680
+    range: 4.82 dB
+- title: OUTRO
+  rg:
+    gain: -9.24 dB
+    peak: 1.059863
+    range: 13.13 dB

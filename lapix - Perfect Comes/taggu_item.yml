@@ -1,0 +1,141 @@
+- title: Discloze
+  subtitle: Extended
+  rg:
+    gain: -12.67 dB
+    peak: 1.037149
+    range: 4.56 dB
+- feat: Shully
+  title: Perfect Comes
+  rg:
+    gain: -12.43 dB
+    peak: 1.043403
+    range: 4.61 dB
+- title: Psychedelic Tokyo Underground
+  rg:
+    gain: -11.56 dB
+    peak: 1.048998
+    range: 5.45 dB
+- title: Head Shot
+  rg:
+    gain: -11.90 dB
+    peak: 1.052715
+    range: 6.05 dB
+- artist:
+    - USAO
+    - lapix
+  title: CLIMAX
+  rg:
+    gain: -12.14 dB
+    peak: 1.047139
+    range: 6.32 dB
+- title: Ultra Funktion Pt.2
+  rg:
+    gain: -11.71 dB
+    peak: 1.075344
+    range: 4.62 dB
+- title: Raving Day Break
+  rg:
+    gain: -11.93 dB
+    peak: 1.039435
+    range: 5.43 dB
+- feat: Kent Alexander
+  title: Survivor
+  rg:
+    gain: -12.59 dB
+    peak: 1.029147
+    range: 6.79 dB
+- title: Ubud
+  rg:
+    gain: -11.65 dB
+    peak: 1.030628
+    range: 3.98 dB
+- title: Youthful
+  rg:
+    gain: -12.01 dB
+    peak: 1.023436
+    range: 7.57 dB
+- title: Around The World
+  rg:
+    gain: -11.49 dB
+    peak: 1.015598
+    range: 4.88 dB
+- title: Just One
+  rg:
+    gain: -12.13 dB
+    peak: 1.054183
+    range: 5.66 dB
+- remix.artist: P*Light
+  title: Foolish Hero
+  subtitle: P*Light Remix
+  rg:
+    gain: -12.42 dB
+    peak: 1.056160
+    range: 3.54 dB
+- remix.artist: HiTECH NINJA
+  title: Drone
+  subtitle: HiTECH NINJA Remix
+  rg:
+    gain: -12.58 dB
+    peak: 1.026631
+    range: 4.48 dB
+- feat:
+    - Luschel
+    - Kent Alexander
+  remix.artist: DJ Shimamura
+  title: Go Crazy
+  subtitle: DJ Shimamura Party Blaster Remix
+  rg:
+    gain: -12.91 dB
+    peak: 1.058940
+    range: 3.96 dB
+- remix.artist:
+    - Ryu☆
+    - 青龍
+  title: Ultra Funktion
+  subtitle: Ryu☆ VS 青龍 Remix
+  rg:
+    gain: -12.80 dB
+    peak: 1.058933
+    range: 4.12 dB
+- remix.artist: Akira Complex
+  title: Crossroad
+  subtitle: Akira Complex Remix
+  rg:
+    gain: -11.68 dB
+    peak: 0.997844
+    range: 6.54 dB
+- remix.artist: aran
+  title: Combat Signal
+  subtitle: aran Remix
+  rg:
+    gain: -10.60 dB
+    peak: 1.034597
+    range: 5.31 dB
+- remix.artist: MNK
+  title: HiTECH NINJA
+  subtitle: MNK Remix
+  rg:
+    gain: -11.75 dB
+    peak: 1.049043
+    range: 6.39 dB
+- remix.artist: HyperJuice
+  title: How About U
+  subtitle: HyperJuice Remix
+  rg:
+    gain: -11.47 dB
+    peak: 1.025165
+    range: 7.12 dB
+- remix.artist: Masayoshi Iimori
+  title: Midnight Doll
+  subtitle: Masayoshi Iimori Remix
+  rg:
+    gain: -11.33 dB
+    peak: 1.012150
+    range: 3.69 dB
+- remix.artist: Camellia
+  title: Paradoxy
+  subtitle: Camellia's "PERPETUAL" Remix
+  rg:
+    gain: -12.26 dB
+    peak: 1.128665
+    range: 14.95 dB

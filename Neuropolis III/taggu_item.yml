@@ -1,0 +1,52 @@
+- artist: Camellia
+  title: Pianoman
+  rg:
+    gain: -11.51 dB
+    peak: 1.433917
+    range: 4.68 dB
+- artist: DJ Noriken
+  title: Abandoned
+  rg:
+    gain: -12.23 dB
+    peak: 1.318962
+    range: 5.18 dB
+- artist: Maya Akai
+  title: Drive Impulse
+  rg:
+    gain: -9.56 dB
+    peak: 1.460938
+    range: 5.67 dB
+- artist: MAD CHILD
+  title: Neuropolitan
+  rg:
+    gain: -11.15 dB
+    peak: 1.326958
+    range: 6.38 dB
+- artist: Nhato
+  title: Equinox
+  rg:
+    gain: -10.50 dB
+    peak: 1.362206
+    range: 6.23 dB
+- artist: C-Show
+  title: Black Blood
+  rg:
+    gain: -10.23 dB
+    peak: 1.362966
+    range: 4.23 dB
+- artist: Tomoyuki Sakakida
+  title: Toraburi
+  rg:
+    gain: -10.44 dB
+    peak: 1.210683
+    range: 3.51 dB
+- artist: Hirayasu Matsudo
+  remix.artist:
+    - Megacycle
+    - MAD CHILD
+  title: Pet Peeve
+  subtitle: Megacycle & MAD CHILD Remix
+  rg:
+    gain: -10.33 dB
+    peak: 1.179059
+    range: 2.99 dB

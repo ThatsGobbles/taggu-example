@@ -1,0 +1,76 @@
+- title: asgard
+  rg:
+    gain: 4.12 dB
+    peak: 0.471070
+    range: 15.99 dB
+- title: Only Lonely Glory
+  subtitle: Album Edition
+  rg:
+    gain: -12.56 dB
+    peak: 1.166861
+    range: 4.14 dB
+- title: Joshaken
+  rg:
+    gain: -12.78 dB
+    peak: 1.124109
+    range: 11.06 dB
+- title: Guild
+  rg:
+    gain: -12.03 dB
+    peak: 1.226136
+    range: 4.27 dB
+- title: embrace
+  rg:
+    gain: -11.59 dB
+    peak: 1.136555
+    range: 7.05 dB
+- title: sailing day
+  rg:
+    gain: -13.08 dB
+    peak: 1.202610
+    range: 3.00 dB
+- title: Onaji Door wo Kuguretara
+  rg:
+    gain: -9.35 dB
+    peak: 1.216336
+    range: 14.18 dB
+- title: Sharin no Uta
+  rg:
+    gain: -10.40 dB
+    peak: 1.115497
+    range: 4.37 dB
+- title: Snow Smile
+  rg:
+    gain: -11.82 dB
+    peak: 1.156383
+    range: 9.10 dB
+- title: Remu
+  rg:
+    gain: -3.88 dB
+    peak: 1.011536
+    range: 6.35 dB
+- title: fire sign
+  rg:
+    gain: -12.51 dB
+    peak: 1.199710
+    range: 5.70 dB
+- title: Taiyo
+  rg:
+    gain: -10.05 dB
+    peak: 1.166127
+    range: 11.53 dB
+- title: Lost Man
+  rg:
+    gain: -12.28 dB
+    peak: 1.139039
+    range: 8.46 dB
+- title: midgard
+  rg:
+    gain: -0.04 dB
+    peak: 0.817092
+    range: 17.26 dB
+- title: O-to-ga-me Heart
+  rg:
+    gain: -9.17 dB
+    peak: 1.140885
+    range: 9.45 dB

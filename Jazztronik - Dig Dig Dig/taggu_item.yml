@@ -1,0 +1,93 @@
+- feat: JAY'ED
+  title: Flash Light
+  rg:
+    gain: -9.49 dB
+    peak: 1.115519
+    range: 5.27 dB
+- title: Deja vu intro
+  rg:
+    gain: -7.23 dB
+    peak: 1.094781
+    range: 5.36 dB
+- feat: AISHA
+  title: Deja vu
+  rg:
+    gain: -10.46 dB
+    peak: 1.184305
+    range: 3.28 dB
+- title: Walk on
+  rg:
+    gain: -9.45 dB
+    peak: 1.060154
+    range: 4.15 dB
+- feat: Giovanca
+  title: Today
+  rg:
+    gain: -9.19 dB
+    peak: 1.056442
+    range: 3.89 dB
+- feat: Maia Hirasawa
+  title: Apathy
+  rg:
+    gain: -8.89 dB
+    peak: 1.064766
+    range: 5.87 dB
+- title: The Seventh Sense
+  rg:
+    gain: -7.77 dB
+    peak: 1.142410
+    range: 14.39 dB
+- title: Vamos la
+  rg:
+    gain: -7.61 dB
+    peak: 1.135074
+    range: 7.78 dB
+- feat: Tommy Blaize
+  title: Now's the time
+  rg:
+    gain: -10.07 dB
+    peak: 1.171973
+    range: 3.69 dB
+- feat:
+    - Mika Arisaka
+    - Eliana
+  title: Dare
+  rg:
+    gain: -10.37 dB
+    peak: 1.068697
+    range: 6.44 dB
+- title: Shuhari
+  rg:
+    gain: -8.81 dB
+    peak: 1.054366
+    range: 8.21 dB
+- title: Resolver
+  rg:
+    gain: -6.60 dB
+    peak: 1.032297
+    range: 5.95 dB
+- feat:
+    - Mika Arisaka
+    - Eliana
+  title: Humming Bird
+  rg:
+    gain: -9.02 dB
+    peak: 1.090995
+    range: 5.08 dB
+- title: Epilogue
+  subtitle: march of the toys
+  rg:
+    gain: -7.13 dB
+    peak: 1.155598
+    range: 2.22 dB
+- title: Bedtime Stories
+  rg:
+    gain: -7.78 dB
+    peak: 1.020487
+    range: 11.93 dB
+- feat: Robert Gallagher
+  title: BRA. Steppers
+  rg:
+    gain: -7.20 dB
+    peak: 1.155965
+    range: 8.21 dB

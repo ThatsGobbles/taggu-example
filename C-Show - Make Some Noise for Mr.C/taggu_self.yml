@@ -1,0 +1,10 @@
+title: Make Some Noise for Mr.C
+artist: C-Show
+catalog: LDR-003
+date: 2017-12-29
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -12.72 dB
+  range: 3.72 dB
+  peak: 1.100556

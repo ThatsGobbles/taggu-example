@@ -1,0 +1,41 @@
+- feat: Temu
+  title: Funk You Up
+  rg:
+    gain: -9.39 dB
+    peak: 0.978918
+    range: 8.32 dB
+- title: Feeling
+  rg:
+    gain: -8.87 dB
+    peak: 0.987961
+    range: 7.37 dB
+- artist:
+    - The Noisy Freaks
+    - Wicked City
+  title: Get Down
+  rg:
+    gain: -10.44 dB
+    peak: 0.979555
+    range: 5.76 dB
+- title: Loose Control
+  rg:
+    gain: -10.06 dB
+    peak: 0.986802
+    range: 7.62 dB
+- feat: Boney
+  title: Loucas
+  rg:
+    gain: -7.85 dB
+    peak: 0.986168
+    range: 8.40 dB
+- feat: Sir Pryce
+  title: Save My Heart
+  rg:
+    gain: -10.56 dB
+    peak: 0.984298
+    range: 8.11 dB
+- title: Find You
+  rg:
+    gain: -8.17 dB
+    peak: 1.074184
+    range: 6.76 dB

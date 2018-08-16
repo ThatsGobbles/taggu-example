@@ -1,0 +1,32 @@
+- title: Stargazing
+  feat: Justin Jesso
+  rg:
+    gain: -9.10 dB
+    peak: 1.177732
+    range: 9.43 dB
+- title: It Ain't Me
+  feat: Selena Gomez
+  rg:
+    gain: -9.51 dB
+    peak: 1.386189
+    range: 8.78 dB
+- title: First Time
+  feat: Ellie Goulding
+  rg:
+    gain: -9.28 dB
+    peak: 1.414361
+    range: 10.52 dB
+- title: This Town
+  feat: Sasha Sloan
+  rg:
+    gain: -8.75 dB
+    peak: 1.161769
+    range: 9.21 dB
+- title: You're the Best Thing About Me
+  artist:
+    - U2
+    - Kygo
+  rg:
+    gain: -9.10 dB
+    peak: 1.162931
+    range: 5.47 dB

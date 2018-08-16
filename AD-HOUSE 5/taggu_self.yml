@@ -1,0 +1,13 @@
+title:
+  series: AD:HOUSE
+  volume: 5
+date: 2016-08-14
+catalog:
+  - DVSP-0156
+  - DVSP-0157
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -9.32 dB
+  range: 6.90 dB
+  peak: 1.106331

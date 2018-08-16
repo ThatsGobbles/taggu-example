@@ -1,0 +1,14 @@
+title:
+  series: AD:PIANO
+  volume: 4
+subtitle: Monochrome
+date: 2016-12-31
+catalog:
+  - DVSP-0167
+  - DVSP-0168
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -8.82 dB
+  range: 11.99 dB
+  peak: 1.213277

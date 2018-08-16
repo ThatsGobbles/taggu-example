@@ -1,0 +1,89 @@
+- title: Intro
+  subtitle: A86
+  rg:
+    gain: -6.65 dB
+    peak: 1.026880
+    range: 7.24 dB
+- feat: Bipolar Sunshine
+  title: Middle
+  rg:
+    gain: -10.56 dB
+    peak: 1.107962
+    range: 5.77 dB
+- feat: Skrillex
+  title: Sahara
+  rg:
+    gain: -11.62 dB
+    peak: 1.497587
+    range: 8.96 dB
+- feat: JRY
+  title: Sober
+  rg:
+    gain: -11.37 dB
+    peak: 1.238863
+    range: 4.15 dB
+- feat: Moksi
+  title: Pigalle
+  rg:
+    gain: -10.91 dB
+    peak: 1.158900
+    range: 5.90 dB
+- feat: George Maple
+  title: Talk
+  rg:
+    gain: -10.93 dB
+    peak: 1.122970
+    range: 15.48 dB
+- feat: Yellow Claw
+  title: Ocho Cinco
+  rg:
+    gain: -12.86 dB
+    peak: 1.399524
+    range: 6.70 dB
+- feat:
+    - Young Thug
+    - Jeremih
+    - Swizz Beatz
+  title: The Half
+  rg:
+    gain: -10.10 dB
+    peak: 1.292682
+    range: 2.82 dB
+- feat:
+    - Travi$ Scott
+    - Migos
+    - G4shi
+  title: Oh Me Oh My
+  rg:
+    gain: -11.57 dB
+    peak: 1.108128
+    range: 5.73 dB
+- title: Propaganda
+  rg:
+    gain: -11.91 dB
+    peak: 1.350189
+    range: 5.79 dB
+- feat: G4shi
+  title: 4 Life
+  rg:
+    gain: -9.34 dB
+    peak: 1.162637
+    range: 8.08 dB
+- feat: Bipolar Sunshine
+  title: Future, Pt. 2
+  rg:
+    gain: -8.74 dB
+    peak: 1.150519
+    range: 4.27 dB
+- feat: Justin Bieber
+  title: Let Me Love You
+  rg:
+    gain: -10.16 dB
+    peak: 1.094137
+    range: 2.96 dB
+- feat: Mr Hudson
+  title: Here Comes the Night
+  rg:
+    gain: -10.61 dB
+    peak: 1.231406
+    range: 7.91 dB

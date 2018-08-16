@@ -1,0 +1,9 @@
+title: Rock on.
+artist: nano
+date: 2015-01-28
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -9.77 dB
+  range: 9.80 dB
+  peak: 1.251687

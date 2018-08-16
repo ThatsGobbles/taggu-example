@@ -1,0 +1,83 @@
+- title: Intro
+  rg:
+    gain: -9.10 dB
+    peak: 1.167607
+    range: 14.12 dB
+- title: PsyStyle Nation
+  rg:
+    gain: -12.56 dB
+    peak: 1.245213
+    range: 7.96 dB
+- artist: lapix
+  title: Black Mamba
+  rg:
+    gain: -13.20 dB
+    peak: 1.194819
+    range: 3.58 dB
+- artist: lapix
+  title: Labyrinth
+  rg:
+    gain: -11.84 dB
+    peak: 1.222395
+    range: 6.36 dB
+- title: JIPANG
+  rg:
+    gain: -12.79 dB
+    peak: 1.332902
+    range: 9.86 dB
+- artist: Massive New Krew
+  title: DMT
+  rg:
+    gain: -12.35 dB
+    peak: 1.624800
+    range: 9.40 dB
+- artist: lapix
+  title: You're Beautiful
+  rg:
+    gain: -11.49 dB
+    peak: 1.304467
+    range: 5.96 dB
+- feat: Kanatan.N
+  title: 1Q57
+  subtitle: interlude
+  rg:
+    gain: -10.20 dB
+    peak: 1.108601
+    range: 15.31 dB
+- feat: Kanatan.N
+  title: Sputnik
+  rg:
+    gain: -11.97 dB
+    peak: 1.144628
+    range: 4.43 dB
+- artist: Massive New Krew
+  title: Mandragora
+  rg:
+    gain: -11.88 dB
+    peak: 1.292946
+    range: 6.18 dB
+- artist: lapix
+  title: Out In Middle
+  rg:
+    gain: -13.23 dB
+    peak: 1.249581
+    range: 6.96 dB
+- artist: Massive New Krew
+  title: Shake
+  rg:
+    gain: -10.92 dB
+    peak: 1.353207
+    range: 8.27 dB
+- artist:
+    - HiTECH NINJA
+    - Massive New Krew
+  title: PsyStyle NINJA
+  rg:
+    gain: -11.49 dB
+    peak: 1.401998
+    range: 9.31 dB
+- title: Outro
+  rg:
+    gain: -8.49 dB
+    peak: 1.204562
+    range: 10.74 dB

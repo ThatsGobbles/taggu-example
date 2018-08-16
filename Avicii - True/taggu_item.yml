@@ -1,0 +1,63 @@
+- feat: Aloe Blacc
+  title: Wake Me Up
+  rg:
+    gain: -9.67 dB
+    peak: 1.011833
+    range: 4.83 dB
+- feat: Salem Al Fakir
+  title: You Make Me
+  rg:
+    gain: -11.15 dB
+    peak: 1.051094
+    range: 3.46 dB
+- feat: Dan Tyminski
+  title: Hey Brother
+  rg:
+    gain: -10.82 dB
+    peak: 1.067859
+    range: 4.66 dB
+- feat: Audra Mae
+  title: Addicted to You
+  rg:
+    gain: -10.69 dB
+    peak: 1.011113
+    range: 3.97 dB
+- feat: MØ
+  title: Dear Boy
+  rg:
+    gain: -10.59 dB
+    peak: 1.208151
+    range: 3.92 dB
+- feat: Blondefire
+  title: Liar Liar
+  rg:
+    gain: -10.75 dB
+    peak: 1.038814
+    range: 2.42 dB
+- feat:
+    - Sterling Fox
+    - Audra Mae
+  title: Shame on Me
+  rg:
+    gain: -8.53 dB
+    peak: 1.045747
+    range: 6.94 dB
+- feat:
+    - Adam Lambert
+    - Nile Rodgers
+  title: Lay Me Down
+  rg:
+    gain: -8.30 dB
+    peak: 1.052831
+    range: 5.97 dB
+- feat: Linnea Henriksson
+  title: Hope There's Someone
+  rg:
+    gain: -9.52 dB
+    peak: 1.050459
+    range: 4.75 dB
+- title: Heart Upon My Sleeve
+  rg:
+    gain: -8.61 dB
+    peak: 1.022705
+    range: 4.39 dB

@@ -1,0 +1,10 @@
+title: Fight Songs
+subtitle: The Music Of Team Fortress 2
+artist: Valve Studio Orchestra
+date: 2017-04-21
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -9.98 dB
+  range: 9.53 dB
+  peak: 1.230941

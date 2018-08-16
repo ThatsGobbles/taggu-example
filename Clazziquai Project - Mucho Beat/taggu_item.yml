@@ -1,0 +1,80 @@
+- title: Ping
+  rg:
+    gain: -10.39 dB
+    peak: 1.046160
+    range: 5.71 dB
+- title: LaLaLa
+  rg:
+    gain: -10.18 dB
+    peak: 1.060449
+    range: 5.47 dB
+- title: Affection
+  rg:
+    gain: -8.96 dB
+    peak: 1.079641
+    range: 7.71 dB
+- title: Spinning the World
+  subtitle: Voice Remix
+  rg:
+    gain: -9.96 dB
+    peak: 1.100972
+    range: 9.02 dB
+- title: Tell Yourself
+  remix.artist: DAISHI DANCE
+  subtitle:
+    - DAISHI DANCE Remix
+    - English Version
+  rg:
+    gain: -10.05 dB
+    peak: 0.985581
+    range: 7.92 dB
+- title: Chocolate Truffle
+  subtitle: Unplugged Version
+  rg:
+    gain: -8.56 dB
+    peak: 1.037018
+    range: 5.32 dB
+- title: Love Again
+  remix.artist: RAM RIDER
+  subtitle: RAM RIDER Remix
+  rg:
+    gain: -8.10 dB
+    peak: 1.048477
+    range: 5.49 dB
+- title: Kiss Kiss Kiss
+  remix.artist: Yasutaka Nakata
+  subtitle: Yasutaka Nakata Remix
+  rg:
+    gain: -8.93 dB
+    peak: 1.018168
+    range: 2.14 dB
+- title: Affection
+  subtitle:
+    - 4Step 4Ward Mix
+    - Han (W)
+  rg:
+    gain: -10.66 dB
+    peak: 1.053722
+    range: 4.90 dB
+- title: Back in Time
+  remix.artist: Cloud
+  subtitle: Cloud Remix
+  rg:
+    gain: -10.02 dB
+    peak: 1.056139
+    range: 1.91 dB
+- title: Flea
+  subtitle:
+    - Jojal Remix
+    - Audition Grandprix
+  rg:
+    gain: -9.77 dB
+    peak: 1.042628
+    range: 3.14 dB
+- title: The Road
+  remix.artist: sugiurumn
+  subtitle: sugiurumn Remix
+  rg:
+    gain: -10.45 dB
+    peak: 1.057016
+    range: 6.19 dB

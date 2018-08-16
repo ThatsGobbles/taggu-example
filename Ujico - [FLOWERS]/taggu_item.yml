@@ -1,0 +1,50 @@
+- title: Intro
+  rg:
+    gain: -2.11 dB
+    peak: 1.155138
+    range: 10.42 dB
+- title: Morning Glory
+  rg:
+    gain: -8.80 dB
+    peak: 1.229287
+    range: 7.79 dB
+- title: Dahlia
+  rg:
+    gain: -8.52 dB
+    peak: 1.317312
+    range: 8.19 dB
+- title: Lycoris
+  rg:
+    gain: -9.24 dB
+    peak: 1.191664
+    range: 3.76 dB
+- title: Sunflower
+  rg:
+    gain: -8.02 dB
+    peak: 1.205306
+    range: 6.56 dB
+- title: Queen of the Night
+  rg:
+    gain: -6.33 dB
+    peak: 1.081184
+    range: 7.24 dB
+- title: Hydrangea
+  rg:
+    gain: -6.78 dB
+    peak: 1.124140
+    range: 9.09 dB
+- title: Lotus
+  rg:
+    gain: -9.57 dB
+    peak: 1.128249
+    range: 10.16 dB
+- title: Lily
+  rg:
+    gain: -10.26 dB
+    peak: 1.288477
+    range: 8.91 dB
+- title: Carnation
+  rg:
+    gain: -8.75 dB
+    peak: 1.214096
+    range: 8.48 dB

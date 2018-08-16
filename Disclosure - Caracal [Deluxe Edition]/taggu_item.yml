@@ -1,0 +1,80 @@
+- feat: The Weeknd
+  title: Nocturnal
+  rg:
+    gain: -9.47 dB
+    peak: 1.142027
+    range: 7.12 dB
+- feat: Sam Smith
+  title: Omen
+  rg:
+    gain: -10.77 dB
+    peak: 1.138965
+    range: 8.31 dB
+- feat: Gregory Porter
+  title: Holding On
+  rg:
+    gain: -10.42 dB
+    peak: 1.178851
+    range: 3.60 dB
+- feat: Lion Babe
+  title: Hourglass
+  rg:
+    gain: -10.31 dB
+    peak: 1.083951
+    range: 4.44 dB
+- feat: Kwabs
+  title: Willing and Able
+  rg:
+    gain: -10.08 dB
+    peak: 1.211778
+    range: 12.94 dB
+- feat: Lorde
+  title: Magnets
+  rg:
+    gain: -8.18 dB
+    peak: 1.142481
+    range: 9.62 dB
+- title: Jaded
+  rg:
+    gain: -9.63 dB
+    peak: 1.090727
+    range: 3.60 dB
+- feat: Miguel
+  title: Good Intentions
+  rg:
+    gain: -10.42 dB
+    peak: 1.159812
+    range: 7.27 dB
+- feat: Nao
+  title: Superego
+  rg:
+    gain: -8.75 dB
+    peak: 1.089202
+    range: 5.93 dB
+- title: Echoes
+  rg:
+    gain: -8.40 dB
+    peak: 1.135428
+    range: 6.51 dB
+- feat: Jordan Rakei
+  title: Masterpiece
+  rg:
+    gain: -7.69 dB
+    peak: 1.161836
+    range: 8.04 dB
+- title: Molecules
+  rg:
+    gain: -8.73 dB
+    peak: 1.120922
+    range: 5.42 dB
+- feat: Brendan Reilly
+  title: Moving Mountains
+  rg:
+    gain: -7.18 dB
+    peak: 1.090150
+    range: 8.92 dB
+- title: Afterthought
+  rg:
+    gain: -9.90 dB
+    peak: 1.140459
+    range: 5.64 dB

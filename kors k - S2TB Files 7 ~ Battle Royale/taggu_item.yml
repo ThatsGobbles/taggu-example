@@ -1,0 +1,130 @@
+- title: Intro
+  rg:
+    gain: -11.46 dB
+    peak: 1.041984
+    range: 4.94 dB
+- artist:
+    - kors k
+    - DJ SHIMAMURA
+  feat: Lexi
+  title: Feel My Energy
+  rg:
+    gain: -12.21 dB
+    peak: 1.067597
+    range: 3.78 dB
+- artist:
+    - kors k
+    - Camellia
+  title: The Rolling
+  rg:
+    gain: -12.41 dB
+    peak: 1.074531
+    range: 5.65 dB
+- artist:
+    - kors k
+    - Sota Fujimori
+  title: Cyber True Color
+  rg:
+    gain: -11.45 dB
+    peak: 1.071137
+    range: 8.75 dB
+- artist:
+    - kors k
+    - Cranky
+  title: Phalanx
+  rg:
+    gain: -12.25 dB
+    peak: 1.028236
+    range: 7.23 dB
+- artist: The 4th
+  feat: kradness
+  title: Hands Up
+  rg:
+    gain: -11.62 dB
+    peak: 1.012966
+    range: 8.06 dB
+- artist:
+    - kors k
+    - REDALiCE
+  title: Good Time
+  rg:
+    gain: -8.63 dB
+    peak: 0.990667
+    range: 6.45 dB
+- artist:
+    - kors k
+    - Akira Complex
+  title: message within the rift
+  rg:
+    gain: -11.94 dB
+    peak: 1.049319
+    range: 9.99 dB
+- artist:
+    - Eagle
+    - Skyfish
+  title: UFO
+  rg:
+    gain: -11.85 dB
+    peak: 1.038896
+    range: 8.73 dB
+- artist:
+    - kors k
+    - lapix
+  title: I Wanna Dance
+  rg:
+    gain: -12.94 dB
+    peak: 1.029665
+    range: 7.61 dB
+- artist:
+    - kors k
+    - L.E.D.-G
+  title: Venom
+  rg:
+    gain: -12.46 dB
+    peak: 1.042530
+    range: 4.77 dB
+- artist:
+    - kors k
+    - KAN TAKAHIKO
+  title: JUNK
+  rg:
+    gain: -10.97 dB
+    peak: 1.033359
+    range: 9.48 dB
+- artist:
+    - kors k
+    - Hommarju
+  title: Moonsault
+  rg:
+    gain: -11.18 dB
+    peak: 1.061037
+    range: 5.12 dB
+- artist:
+    - kors k
+    - Dirty Androids
+  title: Like a Roulette
+  rg:
+    gain: -11.36 dB
+    peak: 1.013080
+    range: 4.62 dB
+- artist:
+    - kors k
+    - REMO-CON
+  title: Devotion
+  rg:
+    gain: -11.70 dB
+    peak: 0.975426
+    range: 4.92 dB
+- artist:
+    - kors k
+    - USAO
+  title: Acid Virus
+  rg:
+    gain: -10.00 dB
+    peak: 1.035547
+    range: 3.87 dB
+- title: Outro
+  rg:
+    gain: -9.93 dB
+    peak: 1.024462
+    range: 9.35 dB

@@ -1,0 +1,86 @@
+- feat: Jess Glynne
+  title: Real Love
+  rg:
+    gain: -9.68 dB
+    peak: 1.103954
+    range: 6.49 dB
+- feat: Stylo G
+  title: Come Over
+  rg:
+    gain: -9.11 dB
+    peak: 1.103195
+    range: 4.35 dB
+- feat: Jess Glynne
+  title: Rather Be
+  rg:
+    gain: -7.37 dB
+    peak: 1.120196
+    range: 10.48 dB
+- feat: Elisabeth Troy
+  title: Show Me Love
+  rg:
+    gain: -11.39 dB
+    peak: 1.201678
+    range: 2.16 dB
+- feat: Sharna Bass
+  title: Extraordinary
+  rg:
+    gain: -8.98 dB
+    peak: 1.101310
+    range: 8.89 dB
+- feat: Love Ssega
+  title: Mozart's House
+  rg:
+    gain: -9.10 dB
+    peak: 1.316869
+    range: 7.54 dB
+- feat:
+    - Alex Newell
+    - Sean Bass
+  title: Stronger
+  rg:
+    gain: -9.99 dB
+    peak: 0.994416
+    range: 4.56 dB
+- feat: Rae Morris
+  remix.artist: Drumsound & Bassline Smith
+  title: Up Again
+  subtitle: Drumsound & Bassline Smith Remix
+  rg:
+    gain: -10.55 dB
+    peak: 1.096730
+    range: 6.45 dB
+- feat:
+    - Nikki Cislyn
+    - Javeon
+  title: Cologne
+  rg:
+    gain: -8.56 dB
+    peak: 1.136020
+    range: 5.06 dB
+- feat: Elisabeth Troy
+  title: Heart On Fire
+  rg:
+    gain: -8.58 dB
+    peak: 1.158610
+    range: 7.79 dB
+- feat: Noonie Bao
+  title: Dust Clears
+  rg:
+    gain: -6.26 dB
+    peak: 1.263551
+    range: 10.65 dB
+- feat: Lizzo
+  title: New Eyes
+  rg:
+    gain: -7.38 dB
+    peak: 1.239008
+    range: 8.32 dB
+- feat:
+    - Kandaka Moore
+    - Nikki Cislyn
+  title: A+E
+  rg:
+    gain: -8.09 dB
+    peak: 1.266134
+    range: 10.45 dB

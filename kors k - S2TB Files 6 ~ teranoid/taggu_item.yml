@@ -1,0 +1,35 @@
+- title: gigadelic 2017
+  feat: Kent Alexander
+  rg:
+    gain: -11.01 dB
+    peak: 1.091935
+    range: 4.87 dB
+- title: XIO
+  subtitle: 2017 ReMaster
+  rg:
+    gain: -11.58 dB
+    peak: 1.056404
+    range: 3.61 dB
+- title: Teranoid Anthem 2017
+  rg:
+    gain: -9.80 dB
+    peak: 1.068594
+    range: 5.82 dB
+- title: P to P to F
+  rg:
+    gain: -10.07 dB
+    peak: 1.090361
+    range: 6.04 dB
+- title: Renegade
+  rg:
+    gain: -10.01 dB
+    peak: 1.130579
+    range: 5.78 dB
+- title: Ground Shake
+  subtitle: teranoid Extended Mix
+  artist: kors k
+  remix.artist: teranoid
+  rg:
+    gain: -11.37 dB
+    peak: 1.092223
+    range: 4.64 dB

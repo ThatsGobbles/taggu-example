@@ -1,0 +1,9 @@
+artist: Arty
+title: Glorious
+date: 2015-10-09
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -10.48 dB
+  range: 6.01 dB
+  peak: 1.527258

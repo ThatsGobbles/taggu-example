@@ -1,0 +1,72 @@
+- title: Make Some Noise for Mr.C
+  rg:
+    gain: -12.20 dB
+    peak: 1.056597
+    range: 1.69 dB
+- artist:
+    - C-Show
+    - Maozon
+  title: Ocean Road
+  rg:
+    gain: -12.80 dB
+    peak: 1.089013
+    range: 3.16 dB
+- feat: イシザワユカリ
+  title: CHASING The ENEMY
+  rg:
+    gain: -12.14 dB
+    peak: 1.065773
+    range: 9.66 dB
+- feat: 藍月なくる
+  title: AImee
+  rg:
+    gain: -12.48 dB
+    peak: 1.091679
+    range: 5.27 dB
+- feat: イシザワユカリ
+  title: Orion
+  subtitle: Update
+  rg:
+    gain: -12.80 dB
+    peak: 1.035276
+    range: 4.10 dB
+- title: Colorless Eyes
+  rg:
+    gain: -12.52 dB
+    peak: 1.078556
+    range: 2.27 dB
+- title: Groove in the Rain
+  subtitle: Album Mix
+  rg:
+    gain: -12.51 dB
+    peak: 1.100556
+    range: 4.13 dB
+- title: Shake It Down
+  rg:
+    gain: -12.96 dB
+    peak: 1.064632
+    range: 2.78 dB
+- title: Invitation from Mr.C
+  subtitle: 20,000 POWER EXTENDED
+  rg:
+    gain: -13.60 dB
+    peak: 1.065326
+    range: 1.98 dB
+- feat: 藍月なくる
+  remix:
+    artist: KO3
+  title: AImee
+  subtitle: KO3 Remix
+  rg:
+    gain: -12.11 dB
+    peak: 1.058933
+    range: 4.27 dB
+- feat: イシザワユカリ
+  remix:
+    artist: DJ Noriken
+  title: CHASING The ENEMY
+  subtitle: DJ Noriken Remix
+  rg:
+    gain: -13.34 dB
+    peak: 1.042106
+    range: 4.28 dB

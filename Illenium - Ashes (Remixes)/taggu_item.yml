@@ -1,0 +1,138 @@
+- title: Reverie
+  subtitle: Synchronice Remix
+  artist: Illenium
+  feat: King Deco
+  remix.artist: Synchronice
+  rg:
+    gain: -10.02 dB
+    peak: 1.275629
+    range: 7.87 dB
+- title: Fortress
+  subtitle: Just A Gent Remix
+  artist: Illenium
+  feat: Joni Fartora
+  remix.artist: Just A Gent
+  rg:
+    gain: -9.86 dB
+    peak: 1.600980
+    range: 6.84 dB
+- title: With You
+  subtitle: Crystal Skies Remix
+  artist: Illenium
+  feat: Quinn XCII
+  remix.artist: Crystal Skies
+  rg:
+    gain: -11.84 dB
+    peak: 1.307017
+    range: 13.76 dB
+- title: Sleepwalker
+  subtitle: Virtu Remix
+  artist: Illenium
+  feat: Joni Fatora
+  remix.artist: Virtu
+  rg:
+    gain: -9.53 dB
+    peak: 1.236415
+    range: 11.27 dB
+- title: It's All On U
+  subtitle: K?d Remix
+  artist: Illenium
+  feat: Liam O'Donnell
+  remix.artist: K?d
+  rg:
+    gain: -13.17 dB
+    peak: 1.309227
+    range: 14.23 dB
+- title: Spirals
+  subtitle: William Black Remix
+  artist:
+    - Illenium
+    - Sound Remedy
+  feat: King Deco
+  remix.artist: William Black
+  rg:
+    gain: -9.29 dB
+    peak: 1.132574
+    range: 5.99 dB
+- title: Without You
+  subtitle: William James Remix
+  artist: Illenium
+  feat: SKYLR
+  remix.artist: William James
+  rg:
+    gain: -11.83 dB
+    peak: 1.346234
+    range: 9.21 dB
+- title: Only One
+  subtitle: Kill Paris Remix
+  artist: Illenium
+  feat: Nina Sung
+  remix.artist: Kill Paris
+  rg:
+    gain: -7.35 dB
+    peak: 1.089367
+    range: 8.85 dB
+- title: I'll Be Your Reason
+  subtitle: FURY Remix
+  artist: Illenium
+  remix.artist: FURY
+  rg:
+    gain: -11.00 dB
+    peak: 1.359384
+    range: 8.58 dB
+- title: Afterlife
+  subtitle: Dabin Remix
+  artist: Illenium
+  feat: Echos
+  remix.artist: Dabin
+  rg:
+    gain: -11.64 dB
+    peak: 1.273873
+    range: 7.79 dB
+- title: With You
+  subtitle: Hazey Eyes Remix
+  artist: Illenium
+  feat: Quinn XCII
+  remix.artist: Hazey Eyes
+  rg:
+    gain: -7.35 dB
+    peak: 1.119178
+    range: 10.95 dB
+- title: Without You
+  subtitle: Ryan Exley Remix
+  artist: Illenium
+  feat: SKYLR
+  remix.artist: Ryan Exley
+  rg:
+    gain: -9.18 dB
+    peak: 1.126269
+    range: 6.25 dB
+- title: Only One
+  subtitle: it's different Remix
+  artist: Illenium
+  feat: Nina Sung
+  remix.artist: it's different
+  rg:
+    gain: -10.21 dB
+    peak: 1.177711
+    range: 14.25 dB
+- title: It's All On U
+  subtitle: T-Mass & LZRD Remix
+  artist: Illenium
+  feat: Liam O'Donnell
+  remix.artist:
+    - T-Mass
+    - LZRD
+  rg:
+    gain: -11.50 dB
+    peak: 1.295798
+    range: 7.55 dB
+- title: Fortress
+  subtitle: MrFijiWiji Remix
+  artist: Illenium
+  feat: Joni Fatora
+  remix.artist: MrFijiWiji
+  rg:
+    gain: -7.93 dB
+    peak: 1.134590
+    range: 11.90 dB
