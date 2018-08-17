@@ -1,0 +1,8 @@
+title: BADASS
+date: 2015-10-25
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -12.21 dB
+  range: 7.43 dB
+  peak: 1.230676
