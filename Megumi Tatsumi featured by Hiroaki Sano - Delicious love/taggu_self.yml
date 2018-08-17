@@ -1,0 +1,12 @@
+title: Delicious love
+artist: Hiroaki Sano
+feat: Megumi Tatsumi
+catalog:
+  - LC-2181
+date: 2013-11-27
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -10.13 dB
+  range: 4.38 dB
+  peak: 1.108445
