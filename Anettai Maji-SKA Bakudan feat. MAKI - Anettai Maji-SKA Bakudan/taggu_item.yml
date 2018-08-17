@@ -1,0 +1,92 @@
+- feat: ~
+  title:
+    ~: Mikeneko rock
+    orig: 三毛猫ロック
+  rg:
+    gain: -6.97 dB
+    peak: 1.017391
+    range: 5.24 dB
+- title:
+    ~: Ringo to hachimitsu
+    orig: 林檎と蜂蜜
+  rg:
+    gain: -6.65 dB
+    peak: 1.063532
+    range: 3.23 dB
+- title:
+    ~: Saikai MAGIC
+    orig: 再会☆MAGIC
+  rg:
+    gain: -7.54 dB
+    peak: 1.096931
+    range: 5.54 dB
+- title:
+    ~: Hanami de ippai
+    orig: 花見で一杯
+  rg:
+    gain: -7.19 dB
+    peak: 1.056621
+    range: 5.16 dB
+- title:
+    ~: Tori koi
+    orig: 通り恋
+  rg:
+    gain: -4.48 dB
+    peak: 0.998839
+    range: 3.80 dB
+- title:
+    ~: Ryukyu rendezvous
+    orig: 琉球ランデブー
+  rg:
+    gain: -8.94 dB
+    peak: 1.032484
+    range: 3.13 dB
+- title:
+    ~: Ringo fujin
+    orig: 林檎夫人
+  rg:
+    gain: -6.83 dB
+    peak: 1.116181
+    range: 6.74 dB
+- feat: ~
+  title: SUBTROPICAL ZOO!!
+  rg:
+    gain: -7.57 dB
+    peak: 1.114766
+    range: 2.17 dB
+- title: HONEY-BEE
+  rg:
+    gain: -6.26 dB
+    peak: 1.038298
+    range: 6.48 dB
+- feat: ~
+  title: Ska Ska No.3
+  rg:
+    gain: -4.03 dB
+    peak: 1.162114
+    range: 3.93 dB
+- feat: ~
+  title: CASSANDRA
+  rg:
+    gain: -7.61 dB
+    peak: 1.073552
+    range: 1.85 dB
+- title:
+    ~: Love lovegie woogie
+    orig: ラブラブギウギ♥
+  rg:
+    gain: -4.91 dB
+    peak: 1.062491
+    range: 3.36 dB
+- title:
+    ~: Swimmers
+    orig: スイマーズ
+  rg:
+    gain: -8.32 dB
+    peak: 1.090055
+    range: 4.71 dB
+- title: less
+  rg:
+    gain: -6.21 dB
+    peak: 1.066542
+    range: 4.02 dB

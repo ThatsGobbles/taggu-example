@@ -1,0 +1,16 @@
+title:
+  ~: Anettai Maji-SKA Bakudan
+  orig: 亜熱帯マジ-SKA-爆弾
+artist:
+  ~: Anettai Maji-SKA Bakudan
+  orig: 亜熱帯マジ-SKA-爆弾
+feat: MAKI
+catalog:
+  - LC-1307
+date: 2004-07-30
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -6.86 dB
+  range: 6.19 dB
+  peak: 1.162114
