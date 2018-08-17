@@ -1,0 +1,10 @@
+title: Visitors
+catalog:
+  - DARC-001
+date: 2013-10-27
+rg:
+  algorithm: ITU-R BS.1770
+  reference_loudness: -18.00
+  gain: -9.73 dB
+  range: 5.88 dB
+  peak: 1.015983

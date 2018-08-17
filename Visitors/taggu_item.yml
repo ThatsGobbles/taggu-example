@@ -1,0 +1,51 @@
+- artist: Bazz
+  title: Automa 23
+  rg:
+    gain: -11.12 dB
+    peak: 0.965961
+    range: 5.65 dB
+- artist: Acquarium
+  title: Bring It Back
+  rg:
+    gain: -9.31 dB
+    peak: 0.967375
+    range: 2.87 dB
+- artist: SADA
+  title: Into The World
+  rg:
+    gain: -9.26 dB
+    peak: 0.986181
+    range: 5.72 dB
+- artist: kors k
+  title: Chasing of Love
+  rg:
+    gain: -9.96 dB
+    peak: 0.974588
+    range: 7.32 dB
+- artist: Acquarium
+  title: Flowing
+  rg:
+    gain: -9.37 dB
+    peak: 0.970084
+    range: 4.35 dB
+- artist: Dirty Androids
+  remix:
+    artist: PINK PONG
+  title: Range Of Light
+  subtitle: PINK PONG Remix
+  rg:
+    gain: -9.43 dB
+    peak: 1.015983
+    range: 6.63 dB
+- artist: AJURIKA
+  title: Morpho
+  rg:
+    gain: -9.31 dB
+    peak: 0.979735
+    range: 4.53 dB
+- artist: SLAKE
+  title: Focus The Light
+  rg:
+    gain: -10.19 dB
+    peak: 0.983510
+    range: 6.04 dB
