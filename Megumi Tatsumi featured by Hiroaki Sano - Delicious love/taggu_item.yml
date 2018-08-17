@@ -1,39 +1,56 @@
-- title: Koi wa okubyou (恋は臆病)
+- title:
+    ~: Koi wa okubyou
+    orig: 恋は臆病
   rg:
     gain: -10.51 dB
     peak: 1.108445
     range: 3.74 dB
-- title: Kiseki hajimari (キセキはじまり☆)
+- title:
+    ~: Kiseki hajimari
+    orig: キセキはじまり☆
   rg:
     gain: -9.59 dB
     peak: 1.032151
     range: 3.01 dB
-- title: Tsubomi (つぼみ)
+- title:
+    ~: Tsubomi
+    orig: つぼみ
   rg:
     gain: -10.14 dB
     peak: 1.057589
     range: 3.00 dB
-- title: Hunter ~doushitemo hoshiimono~ (~どうしても欲しいもの~)
+- title: Hunter
+  subtitle:
+    ~: doushitemo hoshiimono
+    orig: どうしても欲しいもの
   rg:
     gain: -10.14 dB
     peak: 1.060457
     range: 2.37 dB
-- title: Bukiyou ni koishiteru (ぶきように恋してる)
+- title:
+    ~: Bukiyou ni koishiteru
+    orig: ぶきように恋してる
   rg:
     gain: -9.84 dB
     peak: 1.096400
     range: 3.34 dB
-- title: Non-fiction world (ノンフィクションワールド)
+- title:
+    ~: Non-fiction world
+    orig: ノンフィクションワールド
   rg:
     gain: -10.05 dB
     peak: 1.092942
     range: 4.10 dB
-- title: Kiken na kajitsu (キケンな果実)
+- title:
+    ~: Kiken na kajitsu
+    orig: キケンな果実
   rg:
     gain: -10.37 dB
     peak: 1.103352
     range: 4.82 dB
-- title: Ijiwaru na anata (イジワルなあなた)
+- title:
+    ~: Ijiwaru na anata
+    orig: イジワルなあなた
   rg:
     gain: -10.63 dB
     peak: 1.015253
@@ -43,7 +60,9 @@
     gain: -10.32 dB
     peak: 1.104333
     range: 3.70 dB
-- title: Itazura na tenshi to Christmas Eve (いたずらな天使と☆Christmas Eve)
+- title:
+    ~: Itazura na tenshi to Christmas Eve
+    orig: いたずらな天使と☆Christmas Eve
   rg:
     gain: -10.59 dB
     peak: 1.099744
@@ -53,7 +72,9 @@
     gain: -9.64 dB
     peak: 1.048266
     range: 3.18 dB
-- title: Going my way! (ゴーイング　マイ　ウェイ！)
+- title:
+    ~: Going my way!
+    orig: ゴーイング　マイ　ウェイ！
   rg:
     gain: -11.06 dB
     peak: 1.006895
